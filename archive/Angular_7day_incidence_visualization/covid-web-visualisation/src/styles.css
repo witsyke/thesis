@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: "Inconsolata-Light";
+  src: local("Inter var"), url(assets/Inconsolata-Light.ttf) format("truetype");
+}
+
+html {
+  font-family: "Inconsolata-Light", sans-serif;
+}
+
+body {
+  color: white;
+  overflow: hidden;
+  background-color: #1f2430;
+}
