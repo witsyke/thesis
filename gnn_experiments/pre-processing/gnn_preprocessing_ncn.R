@@ -65,36 +65,3 @@ write_csv(active_cases_temp, "<<OUTPUT PATH FOR NORMALIZED NEW CASES>>")
 # write_csv(est_data_norm, "<<OUPUT PATH>>")
 
 # ----------------------------------------------------------------------
-
-# TODO super dirtly but there is one more lk that I don't have movement for
-# pop <- tibble(lk = rownames(P)) %>%
-#   left_join(est_data_norm) %>%
-#   select(lk, population) %>%
-#   distinct()
-# 
-# write_csv(pop, "<<OUTPUT PATH>>")
-# 
-# ggplot(est_data, aes(x = date, y = infected, color = IdLandkreis, group = IdLandkreis)) +
-#   geom_line() +
-#   scale_y_continuous(labels = comma) +
-#   theme(axis.title=element_text(size=18,face="bold"),
-#         axis.text = element_text(size=16)) 
-# 
-# ggplot(est_data_norm, aes(x = date, y = infected, color = IdLandkreis, group = IdLandkreis)) +
-#   geom_line(alpha=0.5) +
-#   scale_y_continuous(labels = comma) +
-#   ylim(0, 0.045) +
-#   theme(axis.title=element_text(size=18,face="bold"),
-#         axis.text = element_text(size=16)) 
-# 
-# 
-# est_active_cases_prop <- est_data %>%
-#   group_by(date) %>%
-#   summarise(total_active_cases = sum(AnzahlFall)) %>%
-#   mutate(total_active_cases_prop = total_active_cases / total_population)
-# 
-# ggplot() +
-#   geom_line(data = est_active_cases_prop, aes(x = date, y = total_active_cases_prop)) +
-#   scale_y_continuous(labels = comma) +
-#   theme(axis.title=element_text(size=18,face="bold"),
-#         axis.text = element_text(size=16)) 
