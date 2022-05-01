@@ -26,9 +26,11 @@ source("mobility_matrix_extractor_commute.R")
 source("update_subpopulations.R")
 source("sir_experiment.R")
 
-# TODO need to update this with dates for the second wave
 start_date <- "2020-09-14"
 end_date <- "2021-01-04"
+
+
+# THIS IS WHERE THE EXPERIMENT IS SET
 experiment <- "only_partial"
 
 structural_update <- TRUE 
@@ -57,8 +59,7 @@ days = as.double(as.Date(end_date) - as.Date(start_date))
 
 
 #-------------------------------- LOAD MOVEMENT DATA --------------------------------
-# This will take a little while and needs a bit of RAM if this doesn't work, let me know
-# then I can extract a smaller movement dataset, e.g., only 2020
+# Mobility data is not public
 movement_data <- read_csv("data/complete_movement.csv.gz") %>%
   mutate(kreis1 = replace(kreis1, grepl("Berlin", kreis1, fixed = TRUE), "Berlin"),
          kreis2 = replace(kreis2, grepl("Berlin", kreis2, fixed = TRUE), "Berlin"),
@@ -89,12 +90,6 @@ movements_filtered <- movement_data_temp %>%
   mutate(mult = as.numeric(rowname) - 1,
          update_mult = mult)
 
-# TODO need something like an experiment config
-# TODO update mult can be changed to stop kappa changes from a specifc week or set kappa to the same value
-# Theoretically this makes kappa_fixed obsolete, but this can be used to verify if it works
-# movements_filtered <- movements_filtered %>%
-#   mutate(week_number = if_else(week_number < 45 & year == 2020, 38, if_else(week_number < 52 & year == 2020, week_number - 6, week_number)),
-#          week = paste(year, week_number, sep = "-"))
 
 if(experiment == "partial_from_beginning"){
   movements_filtered <- movements_filtered %>%

@@ -1,0 +1,2745 @@
+time,R_eff_country,experiment,experiment_id
+0,1.9146450333569107,Observed mobility,0
+1,1.9000415274285145,Observed mobility,0
+2,1.885436513519117,Observed mobility,0
+3,1.870829996477657,Observed mobility,0
+4,1.8562219834062883,Observed mobility,0
+5,1.8416124835899508,Observed mobility,0
+6,1.8270015084173972,Observed mobility,0
+7,1.811621561013524,Observed mobility,0
+8,1.8112331556382049,Observed mobility,0
+9,1.8089947907212551,Observed mobility,0
+10,1.8067533034292376,Observed mobility,0
+11,1.8045085613117064,Observed mobility,0
+12,1.8022604254111936,Observed mobility,0
+13,1.8000087498252948,Observed mobility,0
+14,1.7960726080526872,Observed mobility,0
+15,1.7960045584013955,Observed mobility,0
+16,1.7942190055207266,Observed mobility,0
+17,1.7924290793235562,Observed mobility,0
+18,1.790634590345189,Observed mobility,0
+19,1.788835340304612,Observed mobility,0
+20,1.7870311216128567,Observed mobility,0
+21,1.7832449403139017,Observed mobility,0
+22,1.7734058317810288,Observed mobility,0
+23,1.7614372636530615,Observed mobility,0
+24,1.7494658058860912,Observed mobility,0
+25,1.7374914842451743,Observed mobility,0
+26,1.7255143289716652,Observed mobility,0
+27,1.713534374679741,Observed mobility,0
+28,1.7001270332071128,Observed mobility,0
+29,1.6905498391276672,Observed mobility,0
+30,1.6790017897482097,Observed mobility,0
+31,1.667450742808274,Observed mobility,0
+32,1.6558967374770883,Observed mobility,0
+33,1.6443398166692875,Observed mobility,0
+34,1.6327800268986568,Observed mobility,0
+35,1.6203506064162403,Observed mobility,0
+36,1.6068731716310327,Observed mobility,0
+37,1.5915753602917806,Observed mobility,0
+38,1.576276050129584,Observed mobility,0
+39,1.5609753827318504,Observed mobility,0
+40,1.54567350048158,Observed mobility,0
+41,1.5303705457803256,Observed mobility,0
+42,1.513848617745846,Observed mobility,0
+43,1.4908051707452363,Observed mobility,0
+44,1.465692295088194,Observed mobility,0
+45,1.4405839952601598,Observed mobility,0
+46,1.4154806614149136,Observed mobility,0
+47,1.390382669447346,Observed mobility,0
+48,1.3652903789607929,Observed mobility,0
+49,1.3383252537374517,Observed mobility,0
+50,1.3417165247106977,Observed mobility,0
+51,1.3430592330048206,Observed mobility,0
+52,1.3443971501926248,Observed mobility,0
+53,1.3457301438328038,Observed mobility,0
+54,1.347058076267179,Observed mobility,0
+55,1.3483808043127958,Observed mobility,0
+56,1.3469180816000066,Observed mobility,0
+57,1.345131225591503,Observed mobility,0
+58,1.3405326772499482,Observed mobility,0
+59,1.335931585954679,Observed mobility,0
+60,1.3313279748217786,Observed mobility,0
+61,1.326721867927768,Observed mobility,0
+62,1.3221132902553412,Observed mobility,0
+63,1.3152872263071609,Observed mobility,0
+64,1.3201207203666263,Observed mobility,0
+65,1.3224387122757522,Observed mobility,0
+66,1.324749994182656,Observed mobility,0
+67,1.3270543558119,Observed mobility,0
+68,1.329351578259235,Observed mobility,0
+69,1.331641433595164,Observed mobility,0
+70,1.3316325651750105,Observed mobility,0
+71,1.3307191689389926,Observed mobility,0
+72,1.3270977707651024,Observed mobility,0
+73,1.323472466569082,Observed mobility,0
+74,1.3198432287034374,Observed mobility,0
+75,1.3162100269487105,Observed mobility,0
+76,1.312572828444715,Observed mobility,0
+77,1.3064596728926705,Observed mobility,0
+78,1.308303947536561,Observed mobility,0
+79,1.3076433819619326,Observed mobility,0
+80,1.306976533756485,Observed mobility,0
+81,1.3063032698725168,Observed mobility,0
+82,1.305623452336001,Observed mobility,0
+83,1.3049369380310356,Observed mobility,0
+84,1.301536156063929,Observed mobility,0
+85,1.2970437297960096,Observed mobility,0
+86,1.2896552639831085,Observed mobility,0
+87,1.2822662475320736,Observed mobility,0
+88,1.2748768603689369,Observed mobility,0
+89,1.267487281489977,Observed mobility,0
+90,1.26009768851237,Observed mobility,0
+91,1.249849437508514,Observed mobility,0
+92,1.2133696522754267,Observed mobility,0
+93,1.1740688728235225,Observed mobility,0
+94,1.1347997769634344,Observed mobility,0
+95,1.0955624301070028,Observed mobility,0
+96,1.0563566983870198,Observed mobility,0
+97,1.017182254128378,Observed mobility,0
+98,0.9767432354093118,Observed mobility,0
+99,0.961892636525478,Observed mobility,0
+100,0.945502134960883,Observed mobility,0
+101,0.9291237033452534,Observed mobility,0
+102,0.912757260309236,Observed mobility,0
+103,0.8964026982634311,Observed mobility,0
+104,0.8800598845894212,Observed mobility,0
+105,0.862416446707514,Observed mobility,0
+106,0.864578298629969,Observed mobility,0
+107,0.8643874210062682,Observed mobility,0
+108,0.8641976418324211,Observed mobility,0
+109,0.864008953330106,Observed mobility,0
+110,0.8638213478058251,Observed mobility,0
+111,0.8636348176496356,Observed mobility,0
+112,0.863449355333932,Observed mobility,0
+113,0.863264953412266,Observed mobility,0
+114,0.8630816045181874,Observed mobility,0
+115,0.8628993013640791,Observed mobility,0
+116,0.862718036739985,Observed mobility,0
+117,0.8625378035124978,Observed mobility,0
+118,0.8623585946238114,Observed mobility,0
+119,0.8621804030903231,Observed mobility,0
+120,0.8620032220018656,Observed mobility,0
+121,0.861827044520543,Observed mobility,0
+122,0.86165186387967585,Observed mobility,0
+123,0.8614776733827222,Observed mobility,0
+124,0.8613044664025127,Observed mobility,0
+125,0.861132236380007,Observed mobility,0
+126,0.86096097682344,Observed mobility,0
+127,0.8607906813074092,Observed mobility,0
+128,0.8606213434717876,Observed mobility,0
+129,0.8604529570209406,Observed mobility,0
+130,0.8602855157227626,Observed mobility,0
+131,0.860119013407804,Observed mobility,0
+132,0.8599534439683207,Observed mobility,0
+133,0.8597888013574039,Observed mobility,0
+134,0.859625079588312,Observed mobility,0
+135,0.859462272733342,Observed mobility,0
+136,0.8593003749231511,Observed mobility,0
+137,0.8591393803460176,Observed mobility,0
+138,0.8589792832468472,Observed mobility,0
+139,0.8588200779265043,Observed mobility,0
+140,0.8586617587410335,Observed mobility,0
+141,0.8585043201008001,Observed mobility,0
+142,0.8583477564698139,Observed mobility,0
+143,0.8581920623650078,Observed mobility,0
+144,0.8580372323553854,Observed mobility,0
+145,0.8578832610614022,Observed mobility,0
+146,0.8577301431542016,Observed mobility,0
+147,0.857577873354949,Observed mobility,0
+148,0.85742644643408,Observed mobility,0
+149,0.8572758572107086,Observed mobility,0
+150,0.8571261005518758,Observed mobility,0
+151,0.8569771713719212,Observed mobility,0
+152,0.8568290646318769,Observed mobility,0
+153,0.8566817753387049,Observed mobility,0
+154,0.856535298544786,Observed mobility,0
+155,0.8563896293472706,Observed mobility,0
+156,0.8562447628874039,Observed mobility,0
+157,0.8561006943500379,Observed mobility,0
+158,0.8559574189628972,Observed mobility,0
+159,0.8558149319960836,Observed mobility,0
+160,0.8556732287614979,Observed mobility,0
+161,0.8555323046122901,Observed mobility,0
+162,0.8553921549421577,Observed mobility,0
+163,0.8552527751850183,Observed mobility,0
+164,0.8551141608143011,Observed mobility,0
+165,0.8549763073424654,Observed mobility,0
+166,0.8548392103204484,Observed mobility,0
+167,0.8547028653372503,Observed mobility,0
+168,0.8545672680192223,Observed mobility,0
+169,0.854432414029767,Observed mobility,0
+170,0.8542982990687445,Observed mobility,0
+171,0.8541649188720289,Observed mobility,0
+172,0.8540322692109524,Observed mobility,0
+173,0.8539003458918709,Observed mobility,0
+174,0.8537691447557534,Observed mobility,0
+175,0.8536386616776483,Observed mobility,0
+176,0.8535088925662697,Observed mobility,0
+177,0.8533798333634922,Observed mobility,0
+178,0.8532514800440214,Observed mobility,0
+179,0.8531238286148677,Observed mobility,0
+180,0.8529968751149232,Observed mobility,0
+181,0.8528706156146616,Observed mobility,0
+182,0.8527450462155471,Observed mobility,0
+183,0.8526201630497129,Observed mobility,0
+184,0.8524959622796434,Observed mobility,0
+185,0.8523724400976028,Observed mobility,0
+186,0.8522495927254277,Observed mobility,0
+187,0.8521274164139768,Observed mobility,0
+188,0.8520059074428908,Observed mobility,0
+189,0.8518850621201807,Observed mobility,0
+190,0.8517648767817578,Observed mobility,0
+191,0.8516453477912599,Observed mobility,0
+192,0.8515264715395836,Observed mobility,0
+193,0.8514082444445165,Observed mobility,0
+194,0.8512906629504298,Observed mobility,0
+195,0.8511737235279896,Observed mobility,0
+196,0.8510574226736909,Observed mobility,0
+197,0.8509417569096821,Observed mobility,0
+198,0.8508267227833641,Observed mobility,0
+199,0.8507123168670507,Observed mobility,0
+200,0.8505985357576474,Observed mobility,0
+201,0.8504853760765143,Observed mobility,0
+202,0.8503728344688608,Observed mobility,0
+203,0.8502609076037457,Observed mobility,0
+204,0.8501495921735729,Observed mobility,0
+205,0.8500388848939073,Observed mobility,0
+206,0.8499287825031125,Observed mobility,0
+207,0.8498192817622183,Observed mobility,0
+208,0.8497103794544255,Observed mobility,0
+209,0.8496020723850645,Observed mobility,0
+210,0.8494943573811261,Observed mobility,0
+211,0.8493872312911108,Observed mobility,0
+212,0.8492806909847673,Observed mobility,0
+213,0.849174733352801,Observed mobility,0
+214,0.8490693553066242,Observed mobility,0
+215,0.8489645537781363,Observed mobility,0
+216,0.8488603257194097,Observed mobility,0
+217,0.848756668102608,Observed mobility,0
+218,0.8486535779195241,Observed mobility,0
+219,0.8485510521815561,Observed mobility,0
+220,0.8484490879193528,Observed mobility,0
+221,0.8483476821826276,Observed mobility,0
+222,0.8482468320399219,Observed mobility,0
+223,0.8481465345785041,Observed mobility,0
+224,0.8480467869038608,Observed mobility,0
+225,0.8479475861398253,Observed mobility,0
+226,0.8478489294281831,Observed mobility,0
+227,0.8477508139284747,Observed mobility,0
+228,0.8476532368178457,Observed mobility,0
+229,0.8475561952909014,Observed mobility,0
+230,0.8474596865592775,Observed mobility,0
+231,0.8473637078517279,Observed mobility,0
+232,0.8472682564138135,Observed mobility,0
+233,0.8471733295076619,Observed mobility,0
+234,0.8470789244119141,Observed mobility,0
+235,0.8469850384213755,Observed mobility,0
+236,0.8468916688470635,Observed mobility,0
+237,0.8467988130157851,Observed mobility,0
+238,0.8467064682702024,Observed mobility,0
+239,0.8466146319684493,Observed mobility,0
+240,0.8465233014841206,Observed mobility,0
+241,0.8464324742060626,Observed mobility,0
+242,0.8463421475381865,Observed mobility,0
+243,0.8462523188993459,Observed mobility,0
+244,0.8461629857231389,Observed mobility,0
+245,0.8460741454578332,Observed mobility,0
+246,0.8459857955660652,Observed mobility,0
+247,0.8458979335249445,Observed mobility,0
+248,0.8458105568256067,Observed mobility,0
+249,0.8457236629733292,Observed mobility,0
+250,0.8456372494872424,Observed mobility,0
+251,0.8455513139002188,Observed mobility,0
+252,0.8454658537588009,Observed mobility,0
+253,0.8453808666229435,Observed mobility,0
+254,0.845296350066014,Observed mobility,0
+255,0.8452123016746036,Observed mobility,0
+256,0.8451287190483976,Observed mobility,0
+257,0.8450455998000029,Observed mobility,0
+258,0.8449629415550179,Observed mobility,0
+259,0.8448807419515836,Observed mobility,0
+260,0.8447989986405996,Observed mobility,0
+261,0.8447177092853998,Observed mobility,0
+262,0.8446368715616925,Observed mobility,0
+263,0.844556483157516,Observed mobility,0
+264,0.8444765417729719,Observed mobility,0
+265,0.8443970451202839,Observed mobility,0
+266,0.8443179909235792,Observed mobility,0
+267,0.8442393769188317,Observed mobility,0
+268,0.8441612008537682,Observed mobility,0
+269,0.84408346048766,Observed mobility,0
+270,0.8440061535914325,Observed mobility,0
+271,0.8439292779473385,Observed mobility,0
+272,0.8438528313490131,Observed mobility,0
+273,0.8437768116012888,Observed mobility,0
+274,0.8437012165201794,Observed mobility,0
+275,0.8436260439327522,Observed mobility,0
+276,0.8435512916769679,Observed mobility,0
+277,0.8434769576017451,Observed mobility,0
+278,0.8434030395667114,Observed mobility,0
+279,0.8433295354422493,Observed mobility,0
+280,0.8432564431093109,Observed mobility,0
+281,0.8431837604594052,Observed mobility,0
+282,0.8431114853944591,Observed mobility,0
+283,0.8430396158267585,Observed mobility,0
+284,0.8429681496788918,Observed mobility,0
+285,0.8428970848836664,Observed mobility,0
+286,0.842826419383985,Observed mobility,0
+287,0.842756151132839,Observed mobility,0
+288,0.8426862780931651,Observed mobility,0
+289,0.8426167982378259,Observed mobility,0
+290,0.8425477095495162,Observed mobility,0
+291,0.8424790100206846,Observed mobility,0
+292,0.8424106976534851,Observed mobility,0
+293,0.8423427704596886,Observed mobility,0
+294,0.8422752264605996,Observed mobility,0
+295,0.842208063687099,Observed mobility,0
+296,0.8421412801793617,Observed mobility,0
+297,0.8420748739870263,Observed mobility,0
+298,0.8420088431690043,Observed mobility,0
+299,0.8419431857934144,Observed mobility,0
+300,0.8418778999375641,Observed mobility,0
+301,0.8418129836879165,Observed mobility,0
+302,0.8417484351399368,Observed mobility,0
+303,0.8416842523980538,Observed mobility,0
+304,0.8416204335757699,Observed mobility,0
+305,0.8415569767953383,Observed mobility,0
+306,0.841493880187854,Observed mobility,0
+307,0.8414311418932515,Observed mobility,0
+308,0.8413687600601467,Observed mobility,0
+309,0.8413067328457838,Observed mobility,0
+310,0.8412450584160732,Observed mobility,0
+311,0.8411837349454908,Observed mobility,0
+312,0.8411227606169397,Observed mobility,0
+313,0.841062133621872,Observed mobility,0
+314,0.8410018521601045,Observed mobility,0
+315,0.8409419144398398,Observed mobility,0
+316,0.8408823186775738,Observed mobility,0
+317,0.8408230630980816,Observed mobility,0
+318,0.8407641459343281,Observed mobility,0
+319,0.840705565427513,Observed mobility,0
+320,0.8406473198268996,Observed mobility,0
+321,0.8405894073898806,Observed mobility,0
+322,0.840531826381879,Observed mobility,0
+323,0.8404745750763022,Observed mobility,0
+324,0.840417651754522,Observed mobility,0
+325,0.8403610547058303,Observed mobility,0
+326,0.8403047822273942,Observed mobility,0
+327,0.8402488326241829,Observed mobility,0
+328,0.84019320420899,Observed mobility,0
+329,0.8401378953023064,Observed mobility,0
+330,0.8400829042324278,Observed mobility,0
+331,0.8400282293352304,Observed mobility,0
+332,0.8399738689542743,Observed mobility,0
+333,0.839919821440699,Observed mobility,0
+334,0.8398660851532255,Observed mobility,0
+335,0.8398126584580543,Observed mobility,0
+336,0.8397595397289107,Observed mobility,0
+337,0.8397067273469512,Observed mobility,0
+338,0.8396542197008078,Observed mobility,0
+339,0.839602015186358,Observed mobility,0
+340,0.8395501122069776,Observed mobility,0
+341,0.839498509173264,Observed mobility,0
+342,0.8394472045030997,Observed mobility,0
+343,0.8393961966216287,Observed mobility,0
+344,0.8393454839612207,Observed mobility,0
+345,0.839295064961418,Observed mobility,0
+346,0.8392449380688902,Observed mobility,0
+347,0.839195101737421,Observed mobility,0
+348,0.8391455544279164,Observed mobility,0
+349,0.8390962946083013,Observed mobility,0
+350,0.8390473207535407,Observed mobility,0
+351,0.8389986313455682,Observed mobility,0
+352,0.8389502248733164,Observed mobility,0
+353,0.8389020998326068,Observed mobility,0
+354,0.8388542547262204,Observed mobility,0
+355,0.838806688063728,Observed mobility,0
+356,0.8387593983616486,Observed mobility,0
+357,0.8387123841432398,Observed mobility,0
+358,0.8386656439385574,Observed mobility,0
+359,0.838619176284434,Observed mobility,0
+360,0.838572979724437,Observed mobility,0
+361,0.8385270528088432,Observed mobility,0
+362,0.8384813940945787,Observed mobility,0
+363,0.8384360021452452,Observed mobility,0
+364,0.8383908755310471,Observed mobility,0
+365,0.8383460128288027,Observed mobility,0
+366,0.8383014126218912,Observed mobility,0
+367,0.8382570735002454,Observed mobility,0
+368,0.8382129940603185,Observed mobility,0
+369,0.8381691729049997,Observed mobility,0
+370,0.8381256086437895,Observed mobility,0
+371,0.8380822998924428,Observed mobility,0
+372,0.8380392452732413,Observed mobility,0
+373,0.8379964434148763,Observed mobility,0
+374,0.8379538929523581,Observed mobility,0
+375,0.8379115925270217,Observed mobility,0
+376,0.8378695407865989,Observed mobility,0
+377,0.8378277363850314,Observed mobility,0
+378,0.8377861779825809,Observed mobility,0
+379,0.8377448642457324,Observed mobility,0
+380,0.8377037938472282,Observed mobility,0
+381,0.8376629654659943,Observed mobility,0
+382,0.8376223777870488,Observed mobility,0
+383,0.8375820295017083,Observed mobility,0
+384,0.8375419193073432,Observed mobility,0
+385,0.8375020459073943,Observed mobility,0
+386,0.8374624080114558,Observed mobility,0
+387,0.8374230043351392,Observed mobility,0
+388,0.8373838336001305,Observed mobility,0
+389,0.8373448945340896,Observed mobility,0
+390,0.8373061858706861,Observed mobility,0
+391,0.8372677063495899,Observed mobility,0
+0,1.9146450333569107,No mobility change,1
+1,1.914588262658281,No mobility change,1
+2,1.9145284862291967,No mobility change,1
+3,1.9144655452220225,No mobility change,1
+4,1.914399272428603,No mobility change,1
+5,1.9143294918441096,No mobility change,1
+6,1.9142560182082704,No mobility change,1
+7,1.9141786565234908,No mobility change,1
+8,1.9140972015478577,No mobility change,1
+9,1.9140114372628192,No mobility change,1
+10,1.9139211363139572,No mobility change,1
+11,1.9138260594225704,No mobility change,1
+12,1.9137259547683896,No mobility change,1
+13,1.9136205573408016,No mobility change,1
+14,1.9135095882572717,No mobility change,1
+15,1.9133927540478888,No mobility change,1
+16,1.9132697459041657,No mobility change,1
+17,1.9131402388901424,No mobility change,1
+18,1.9130038911145448,No mobility change,1
+19,1.9128603428617323,No mobility change,1
+20,1.912709215680781,No mobility change,1
+21,1.9125501114281829,No mobility change,1
+22,1.912382611265537,No mobility change,1
+23,1.9122062746075532,No mobility change,1
+24,1.912020638019435,No mobility change,1
+25,1.9118252140614056,No mobility change,1
+26,1.911619490077584,No mobility change,1
+27,1.9114029269278332,No mobility change,1
+28,1.9111749576593984,No mobility change,1
+29,1.910934986116403,No mobility change,1
+30,1.9106823854844417,No mobility change,1
+31,1.910416496768339,No mobility change,1
+32,1.9101366271999067,No mobility change,1
+33,1.909842048573608,No mobility change,1
+34,1.909531995507356,No mobility change,1
+35,1.90920566362607,No mobility change,1
+36,1.908862207665317,No mobility change,1
+37,1.9085007394925104,No mobility change,1
+38,1.9081203260432915,No mobility change,1
+39,1.9077199871706625,No mobility change,1
+40,1.907298693404136,No mobility change,1
+41,1.9068553636176944,No mobility change,1
+42,1.9063888626030077,No mobility change,1
+43,1.9058979985474775,No mobility change,1
+44,1.9053815204138984,No mobility change,1
+45,1.904838115221672,No mobility change,1
+46,1.9042664052273568,No mobility change,1
+47,1.903664945003975,No mobility change,1
+48,1.903032218418507,No mobility change,1
+49,1.9023666355079931,No mobility change,1
+50,1.9016665292538195,No mobility change,1
+51,1.9009301522555988,No mobility change,1
+52,1.9001556733070664,No mobility change,1
+53,1.8993411738747727,No mobility change,1
+54,1.8984846444843697,No mobility change,1
+55,1.8975839810176431,No mobility change,1
+56,1.896636980926096,No mobility change,1
+57,1.8956413393670777,No mobility change,1
+58,1.8945946452698583,No mobility change,1
+59,1.8934943773416144,No mobility change,1
+60,1.8923379000231175,No mobility change,1
+61,1.891122459406464,No mobility change,1
+62,1.8898451791295927,No mobility change,1
+63,1.888503056263627,No mobility change,1
+64,1.887092957211122,No mobility change,1
+65,1.885611613637267,No mobility change,1
+66,1.88405561845626,No mobility change,1
+67,1.8824214219004145,No mobility change,1
+68,1.880705327701341,No mobility change,1
+69,1.8789034894150205,No mobility change,1
+70,1.8770119069289537,No mobility change,1
+71,1.875026423188936,No mobility change,1
+72,1.8729427211920944,No mobility change,1
+73,1.8707563212919245,No mobility change,1
+74,1.868462578868872,No mobility change,1
+75,1.8660566824239349,No mobility change,1
+76,1.8635336521548704,No mobility change,1
+77,1.8608883390834132,No mobility change,1
+78,1.8581154248038467,No mobility change,1
+79,1.8552094219280288,No mobility change,1
+80,1.8521646753097056,No mobility change,1
+81,1.848975364131652,No mobility change,1
+82,1.8456355049477025,No mobility change,1
+83,1.8421389557723136,No mobility change,1
+84,1.8384794213178668,No mobility change,1
+85,1.8346504594801336,No mobility change,1
+86,1.830645489177184,No mobility change,1
+87,1.8264577996479756,No mobility change,1
+88,1.82208056131845,No mobility change,1
+89,1.8175068383425088,No mobility change,1
+90,1.8127296029242488,No mobility change,1
+91,1.8077417515234655,No mobility change,1
+92,1.8025361230447925,No mobility change,1
+93,1.7971055190999732,No mobility change,1
+94,1.7914427264278003,No mobility change,1
+95,1.7855405415424996,No mobility change,1
+96,1.7793917976686866,No mobility change,1
+97,1.7729893940035033,No mobility change,1
+98,1.766326327327948,No mobility change,1
+99,1.759395725965574,No mobility change,1
+100,1.7521908860617448,No mobility change,1
+101,1.7447053101264935,No mobility change,1
+102,1.7369327477523382,No mobility change,1
+103,1.7288672383836252,No mobility change,1
+104,1.7205031559729087,No mobility change,1
+105,1.7118352553231158,No mobility change,1
+106,1.7028587198668523,No mobility change,1
+107,1.693569210592104,No mobility change,1
+108,1.6839629157778078,No mobility change,1
+109,1.6740366011545955,No mobility change,1
+110,1.6637876600629549,No mobility change,1
+111,1.6532141631361637,No mobility change,1
+112,1.6423149069948642,No mobility change,1
+113,1.6310894614034703,No mobility change,1
+114,1.619538214305872,No mobility change,1
+115,1.6076624141352325,No mobility change,1
+116,1.5954642087727455,No mobility change,1
+117,1.5829466805249448,No mobility change,1
+118,1.57011387648936,No mobility change,1
+119,1.5569708336935777,No mobility change,1
+120,1.5435235984173672,No mobility change,1
+121,1.5297792391472014,No mobility change,1
+122,1.5157458526623682,No mobility change,1
+123,1.501432562818903,No mobility change,1
+124,1.4868495116709854,No mobility change,1
+125,1.4720078426613068,No mobility change,1
+126,1.4569196757095222,No mobility change,1
+127,1.4415980741351746,No mobility change,1
+128,1.426057003468168,No mobility change,1
+129,1.410311282317669,No mobility change,1
+130,1.3943765255925218,No mobility change,1
+131,1.3782690804868043,No mobility change,1
+132,1.3620059557613031,No mobility change,1
+133,1.345604744961674,No mobility change,1
+134,1.3290835443159352,No mobility change,1
+135,1.312460866142177,No mobility change,1
+136,1.2957555486728864,No mobility change,1
+137,1.2789866632595746,No mobility change,1
+138,1.2621734199633732,No mobility change,1
+139,1.245335072557048,No mobility change,1
+140,1.2284908239677117,No mobility change,1
+141,1.211659733170938,No mobility change,1
+142,1.1948606245122082,No mobility change,1
+143,1.1781120003777883,No mobility change,1
+144,1.1614319580679349,No mobility change,1
+145,1.144838111642303,No mobility change,1
+146,1.12834751941358,No mobility change,1
+147,1.1119766176604629,No mobility change,1
+148,1.0957411610240584,No mobility change,1
+149,1.0796561699361331,No mobility change,1
+150,1.0637358853166674,No mobility change,1
+151,1.0479937306656495,No mobility change,1
+152,1.0324422815659402,No mobility change,1
+153,1.0170932425151602,No mobility change,1
+154,1.001957430909906,No mobility change,1
+155,0.9870447679234716,No mobility change,1
+156,0.9723642759450344,No mobility change,1
+157,0.9579240821863588,No mobility change,1
+158,0.9437314280132564,No mobility change,1
+159,0.92979268351881,No mobility change,1
+160,0.9161133668292272,No mobility change,1
+161,0.9026981676161066,No mobility change,1
+162,0.889550974281942,No mobility change,1
+163,0.8766749042882164,No mobility change,1
+164,0.8640723371058294,No mobility change,1
+165,0.851744949284163,No mobility change,1
+166,0.8396937511585595,No mobility change,1
+167,0.8279191247438739,No mobility change,1
+168,0.8164208623925131,No mobility change,1
+169,0.8051982058298148,No mobility change,1
+170,0.794249885214841,No mobility change,1
+171,0.783574157911732,No mobility change,1
+172,0.7731688466926367,No mobility change,1
+173,0.7630313771297487,No mobility change,1
+174,0.7531588139689124,No mobility change,1
+175,0.7435478963102378,No mobility change,1
+176,0.7341950714532408,No mobility change,1
+177,0.7250965272931906,No mobility change,1
+178,0.7162482231823455,No mobility change,1
+179,0.7076459191947343,No mobility change,1
+180,0.6992852037553554,No mobility change,1
+181,0.6911615196141995,No mobility change,1
+182,0.6832701881634099,No mobility change,1
+183,0.6756064321108961,No mobility change,1
+184,0.6681653965363542,No mobility change,1
+185,0.6609421683672616,No mobility change,1
+186,0.6539317943207871,No mobility change,1
+187,0.6471292973654146,No mobility change,1
+188,0.6405296917612973,No mobility change,1
+189,0.6341279967434121,No mobility change,1
+190,0.6279192489137044,No mobility change,1
+191,0.6218985134110274,No mobility change,1
+192,0.6160608939288202,No mobility change,1
+193,0.6104015416497182,No mobility change,1
+194,0.6049156631668076,No mobility change,1
+195,0.5995985274594822,No mobility change,1
+196,0.594445471990098,No mobility change,1
+197,0.5894519079863555,No mobility change,1
+198,0.5846133249711845,No mobility change,1
+199,0.5799252945997126,No mobility change,1
+200,0.5753834738603448,No mobility change,1
+201,0.5709836076936567,No mobility change,1
+202,0.5667215310803433,No mobility change,1
+203,0.5625931706463027,No mobility change,1
+204,0.5585945458300597,No mobility change,1
+205,0.5547217696547081,No mobility change,1
+206,0.5509710491440158,No mobility change,1
+207,0.5473386854193506,No mobility change,1
+208,0.5438210735114523,No mobility change,1
+209,0.5404147019186243,No mobility change,1
+210,0.5371161519404202,No mobility change,1
+211,0.5339220968136617,No mobility change,1
+212,0.5308293006753201,No mobility change,1
+213,0.5278346173748477,No mobility change,1
+214,0.524934989156428,No mobility change,1
+215,0.5221274452300898,No mobility change,1
+216,0.5194091002487149,No mobility change,1
+217,0.5167771527062748,No mobility change,1
+218,0.5142288832714671,No mobility change,1
+219,0.5117616530694873,No mobility change,1
+220,0.5093729019229803,No mobility change,1
+221,0.5070601465629295,No mobility change,1
+222,0.5048209788180306,No mobility change,1
+223,0.5026530637912936,No mobility change,1
+224,0.500554138030734,No mobility change,1
+225,0.4985220077008013,No mobility change,1
+226,0.49655454676020105,No mobility change,1
+227,0.49464969515097856,No mobility change,1
+228,0.4928054570035182,No mobility change,1
+229,0.4910198988608735,No mobility change,1
+230,0.4892911479260698,No mobility change,1
+231,0.48761739033505297,No mobility change,1
+232,0.485996869457455,No mobility change,1
+233,0.4844278842277612,No mobility change,1
+234,0.4829087875078918,No mobility change,1
+235,0.481437984483,No mobility change,1
+236,0.4800139310914272,No mobility change,1
+237,0.47863513248965023,No mobility change,1
+238,0.4773001415528767,No mobility change,1
+239,0.4760075574117143,No mobility change,1
+240,0.47475602402513795,No mobility change,1
+241,0.4735442287898921,No mobility change,1
+242,0.4723709011862755,No mobility change,1
+243,0.471234811460173,No mobility change,1
+244,0.4701347693410529,No mobility change,1
+245,0.469069622795649,No mobility change,1
+246,0.4680382568168714,No mobility change,1
+247,0.46703959224743097,No mobility change,1
+248,0.46607258463765266,No mobility change,1
+249,0.465136223137029,No mobility change,1
+250,0.4642295294185808,No mobility change,1
+251,0.463351556635727,No mobility change,1
+252,0.4625013884106924,No mobility change,1
+253,0.46167813785393047,No mobility change,1
+254,0.4608809466136814,No mobility change,1
+255,0.4601089839551747,No mobility change,1
+256,0.4593614458684483,No mobility change,1
+257,0.45863755420423974,No mobility change,1
+258,0.4579365558371977,No mobility change,1
+259,0.4572577218555835,No mobility change,1
+260,0.4566003467767493,No mobility change,1
+261,0.45596374778782206,No mobility change,1
+262,0.455347264010572,No mobility change,1
+263,0.4547502557900915,No mobility change,1
+264,0.4541721040063415,No mobility change,1
+265,0.45361220940794583,No mobility change,1
+266,0.45306999196766895,No mobility change,1
+267,0.4525448902587515,No mobility change,1
+268,0.45203636085150034,No mobility change,1
+269,0.4515438777297285,No mobility change,1
+270,0.4510669317259138,No mobility change,1
+271,0.4506050299751394,No mobility change,1
+272,0.4501576953866421,No mobility change,1
+273,0.4497244661327684,No mobility change,1
+274,0.4493048951546169,No mobility change,1
+275,0.4488985496838558,No mobility change,1
+276,0.4485050107802691,No mobility change,1
+277,0.4481238728844003,No mobility change,1
+278,0.4477547433848672,No mobility change,1
+279,0.447397242199924,No mobility change,1
+280,0.4470510013726016,No mobility change,1
+281,0.4467156646792829,No mobility change,1
+282,0.44639088725096815,No mobility change,1
+283,0.4460763352070947,No mobility change,1
+284,0.4457716853011514,No mobility change,1
+285,0.4454766245781303,No mobility change,1
+286,0.4451908500429434,No mobility change,1
+287,0.4449140683399991,No mobility change,1
+288,0.4446459954428872,No mobility change,1
+289,0.4443863563545096,No mobility change,1
+290,0.4441348848169301,No mobility change,1
+291,0.443891323030524,No mobility change,1
+292,0.4436554213826029,No mobility change,1
+293,0.44342693818458295,No mobility change,1
+294,0.4432056394179549,No mobility change,1
+295,0.4429912984884076,No mobility change,1
+296,0.442783695987953,No mobility change,1
+297,0.4425826194648554,No mobility change,1
+298,0.44238786320099704,No mobility change,1
+299,0.4421992279964581,No mobility change,1
+300,0.44201652096114485,No mobility change,1
+301,0.441839555313148,No mobility change,1
+302,0.4416681501836201,No mobility change,1
+303,0.44150213042800496,No mobility change,1
+304,0.4413413264433785,No mobility change,1
+305,0.4411855739916367,No mobility change,1
+306,0.4410347140285563,No mobility change,1
+307,0.44088859253818063,No mobility change,1
+308,0.4407470603726412,No mobility change,1
+309,0.4406099730972776,No mobility change,1
+310,0.4404771908404291,No mobility change,1
+311,0.4403485781484816,No mobility change,1
+312,0.4402240038451849,No mobility change,1
+313,0.44010334089577946,No mobility change,1
+314,0.4399864662753416,No mobility change,1
+315,0.43987326084147216,No mobility change,1
+316,0.4397636092109342,No mobility change,1
+317,0.43965739964038225,No mobility change,1
+318,0.4395545239108353,No mobility change,1
+319,0.4394548772159426,No mobility change,1
+320,0.43935835805365,No mobility change,1
+321,0.4392648681216129,No mobility change,1
+322,0.4391743122156434,No mobility change,1
+323,0.43908659813169504,No mobility change,1
+324,0.43900163657079033,No mobility change,1
+325,0.4389193410470424,No mobility change,1
+326,0.438839627798613,No mobility change,1
+327,0.4387624157015396,No mobility change,1
+328,0.4386876261863077,No mobility change,1
+329,0.4386151831570104,No mobility change,1
+330,0.4385450129132121,No mobility change,1
+331,0.4384770440741742,No mobility change,1
+332,0.43841120750554513,No mobility change,1
+333,0.4383474362484669,No mobility change,1
+334,0.4382856654507662,No mobility change,1
+335,0.43822583230051954,No mobility change,1
+336,0.43816787596154566,No mobility change,1
+337,0.4381117375111323,No mobility change,1
+338,0.4380573598795726,No mobility change,1
+339,0.4380046877917768,No mobility change,1
+340,0.4379536677105908,No mobility change,1
+341,0.4379042477820461,No mobility change,1
+342,0.4378563777822027,No mobility change,1
+343,0.437810009065882,No mobility change,1
+344,0.43776509451674406,No mobility change,1
+345,0.4377215884992634,No mobility change,1
+346,0.43767944681195353,No mobility change,1
+347,0.4376386266422307,No mobility change,1
+348,0.43759908652268426,No mobility change,1
+349,0.4375607862886514,No mobility change,1
+350,0.4375236870372495,No mobility change,1
+351,0.4374877510876015,No mobility change,1
+352,0.43745294194240986,No mobility change,1
+353,0.4374192242506485,No mobility change,1
+354,0.4373865637715432,No mobility change,1
+355,0.4373549273395873,No mobility change,1
+356,0.437324282830722,No mobility change,1
+357,0.4372945991295899,No mobility change,1
+358,0.43726584609775265,No mobility change,1
+359,0.4372379945430402,No mobility change,1
+360,0.4372110161897142,No mobility change,1
+361,0.4371848836497077,No mobility change,1
+362,0.4371595703946588,No mobility change,1
+363,0.4371350507289205,No mobility change,1
+364,0.43711129976338337,No mobility change,1
+365,0.43708829339010247,No mobility change,1
+366,0.4370660082577248,No mobility change,1
+367,0.4370444217477864,No mobility change,1
+368,0.4370235119516068,No mobility change,1
+369,0.4370032576479889,No mobility change,1
+370,0.4369836382816849,No mobility change,1
+371,0.4369646339423872,No mobility change,1
+372,0.43694622534453537,No mobility change,1
+373,0.4369283938076351,No mobility change,1
+374,0.4369111212373255,No mobility change,1
+375,0.4368943901068545,No mobility change,1
+376,0.4368781834393888,No mobility change,1
+377,0.4368624847906501,No mobility change,1
+378,0.43684727823220865,No mobility change,1
+379,0.4368325483353021,No mobility change,1
+380,0.43681828015515933,No mobility change,1
+381,0.4368044592157641,No mobility change,1
+382,0.4367910714951428,No mobility change,1
+383,0.43677810341117634,No mobility change,1
+384,0.4367655418077122,No mobility change,1
+385,0.43675337394121955,No mobility change,1
+386,0.43674158746784575,No mobility change,1
+387,0.4367301704308973,No mobility change,1
+388,0.4367191112486132,No mobility change,1
+389,0.43670839870248446,No mobility change,1
+390,0.4366980219257976,No mobility change,1
+391,0.4366879703926143,No mobility change,1
+0,0.8621463382184303,Extended lockdown mobility from the beginning,6
+1,0.8621350464462825,Extended lockdown mobility from the beginning,6
+2,0.862123821812587,Extended lockdown mobility from the beginning,6
+3,0.8621126635694151,Extended lockdown mobility from the beginning,6
+4,0.8621015709803411,Extended lockdown mobility from the beginning,6
+5,0.8620905433202173,Extended lockdown mobility from the beginning,6
+6,0.8620795798748809,Extended lockdown mobility from the beginning,6
+7,0.8620686799410399,Extended lockdown mobility from the beginning,6
+8,0.8620578428259102,Extended lockdown mobility from the beginning,6
+9,0.8620470678471354,Extended lockdown mobility from the beginning,6
+10,0.8620363543325423,Extended lockdown mobility from the beginning,6
+11,0.8620257016198549,Extended lockdown mobility from the beginning,6
+12,0.8620151090566801,Extended lockdown mobility from the beginning,6
+13,0.862004576000151,Extended lockdown mobility from the beginning,6
+14,0.8619941018167712,Extended lockdown mobility from the beginning,6
+15,0.8619836858823507,Extended lockdown mobility from the beginning,6
+16,0.861973327581641,Extended lockdown mobility from the beginning,6
+17,0.8619630263083651,Extended lockdown mobility from the beginning,6
+18,0.8619527814648579,Extended lockdown mobility from the beginning,6
+19,0.8619425924620656,Extended lockdown mobility from the beginning,6
+20,0.8619324587192847,Extended lockdown mobility from the beginning,6
+21,0.8619223796640009,Extended lockdown mobility from the beginning,6
+22,0.8619123547318565,Extended lockdown mobility from the beginning,6
+23,0.861902383366341,Extended lockdown mobility from the beginning,6
+24,0.8618924650187293,Extended lockdown mobility from the beginning,6
+25,0.861882599147972,Extended lockdown mobility from the beginning,6
+26,0.8618727852205221,Extended lockdown mobility from the beginning,6
+27,0.8618630227101531,Extended lockdown mobility from the beginning,6
+28,0.8618533110978386,Extended lockdown mobility from the beginning,6
+29,0.8618436498717618,Extended lockdown mobility from the beginning,6
+30,0.8618340385270233,Extended lockdown mobility from the beginning,6
+31,0.8618244765655463,Extended lockdown mobility from the beginning,6
+32,0.8618149634959855,Extended lockdown mobility from the beginning,6
+33,0.8618054988336872,Extended lockdown mobility from the beginning,6
+34,0.8617960821004388,Extended lockdown mobility from the beginning,6
+35,0.8617867128244185,Extended lockdown mobility from the beginning,6
+36,0.8617773905400831,Extended lockdown mobility from the beginning,6
+37,0.8617681147880492,Extended lockdown mobility from the beginning,6
+38,0.8617588851150426,Extended lockdown mobility from the beginning,6
+39,0.8617497010736933,Extended lockdown mobility from the beginning,6
+40,0.8617405622224896,Extended lockdown mobility from the beginning,6
+41,0.8617314681257556,Extended lockdown mobility from the beginning,6
+42,0.8617224183534181,Extended lockdown mobility from the beginning,6
+43,0.8617134124809215,Extended lockdown mobility from the beginning,6
+44,0.8617044500893567,Extended lockdown mobility from the beginning,6
+45,0.8616955307650092,Extended lockdown mobility from the beginning,6
+46,0.8616866540996032,Extended lockdown mobility from the beginning,6
+47,0.861677819689986,Extended lockdown mobility from the beginning,6
+48,0.8616690271381923,Extended lockdown mobility from the beginning,6
+49,0.8616602760512669,Extended lockdown mobility from the beginning,6
+50,0.8616515660412079,Extended lockdown mobility from the beginning,6
+51,0.8616428967249412,Extended lockdown mobility from the beginning,6
+52,0.8616342677241442,Extended lockdown mobility from the beginning,6
+53,0.8616256786652564,Extended lockdown mobility from the beginning,6
+54,0.861617129179346,Extended lockdown mobility from the beginning,6
+55,0.8616086189020623,Extended lockdown mobility from the beginning,6
+56,0.861600147473596,Extended lockdown mobility from the beginning,6
+57,0.861591714538538,Extended lockdown mobility from the beginning,6
+58,0.8615833197458207,Extended lockdown mobility from the beginning,6
+59,0.8615749627487364,Extended lockdown mobility from the beginning,6
+60,0.8615666432047594,Extended lockdown mobility from the beginning,6
+61,0.8615583607755338,Extended lockdown mobility from the beginning,6
+62,0.8615501151268394,Extended lockdown mobility from the beginning,6
+63,0.861541905928476,Extended lockdown mobility from the beginning,6
+64,0.8615337328541895,Extended lockdown mobility from the beginning,6
+65,0.8615255955817048,Extended lockdown mobility from the beginning,6
+66,0.8615174937925252,Extended lockdown mobility from the beginning,6
+67,0.8615094271720063,Extended lockdown mobility from the beginning,6
+68,0.8615013954092415,Extended lockdown mobility from the beginning,6
+69,0.8614933981969823,Extended lockdown mobility from the beginning,6
+70,0.8614854352316573,Extended lockdown mobility from the beginning,6
+71,0.8614775062132408,Extended lockdown mobility from the beginning,6
+72,0.8614696108451753,Extended lockdown mobility from the beginning,6
+73,0.861461748834463,Extended lockdown mobility from the beginning,6
+74,0.8614539198915243,Extended lockdown mobility from the beginning,6
+75,0.8614461237300733,Extended lockdown mobility from the beginning,6
+76,0.8614383600671878,Extended lockdown mobility from the beginning,6
+77,0.8614306286231965,Extended lockdown mobility from the beginning,6
+78,0.8614229291217269,Extended lockdown mobility from the beginning,6
+79,0.8614152612895004,Extended lockdown mobility from the beginning,6
+80,0.8614076248563655,Extended lockdown mobility from the beginning,6
+81,0.8614000195553446,Extended lockdown mobility from the beginning,6
+82,0.861392445122388,Extended lockdown mobility from the beginning,6
+83,0.8613849012965341,Extended lockdown mobility from the beginning,6
+84,0.8613773878197697,Extended lockdown mobility from the beginning,6
+85,0.8613699044369139,Extended lockdown mobility from the beginning,6
+86,0.8613624508957423,Extended lockdown mobility from the beginning,6
+87,0.8613550269468481,Extended lockdown mobility from the beginning,6
+88,0.8613476323435705,Extended lockdown mobility from the beginning,6
+89,0.8613402668420752,Extended lockdown mobility from the beginning,6
+90,0.8613329302011892,Extended lockdown mobility from the beginning,6
+91,0.8613256221823947,Extended lockdown mobility from the beginning,6
+92,0.8613183425499047,Extended lockdown mobility from the beginning,6
+93,0.861311091070445,Extended lockdown mobility from the beginning,6
+94,0.8613038675133526,Extended lockdown mobility from the beginning,6
+95,0.8612966716504725,Extended lockdown mobility from the beginning,6
+96,0.8612895032561836,Extended lockdown mobility from the beginning,6
+97,0.8612823621072654,Extended lockdown mobility from the beginning,6
+98,0.8612752479830064,Extended lockdown mobility from the beginning,6
+99,0.8612681606650587,Extended lockdown mobility from the beginning,6
+100,0.8612610999373874,Extended lockdown mobility from the beginning,6
+101,0.861254065586365,Extended lockdown mobility from the beginning,6
+102,0.8612470574006177,Extended lockdown mobility from the beginning,6
+103,0.8612400751710522,Extended lockdown mobility from the beginning,6
+104,0.8612331186908336,Extended lockdown mobility from the beginning,6
+105,0.8612261877552861,Extended lockdown mobility from the beginning,6
+106,0.8612192821620221,Extended lockdown mobility from the beginning,6
+107,0.8612124017106679,Extended lockdown mobility from the beginning,6
+108,0.8612055462030438,Extended lockdown mobility from the beginning,6
+109,0.8611987154430681,Extended lockdown mobility from the beginning,6
+110,0.8611919092366794,Extended lockdown mobility from the beginning,6
+111,0.8611851273919822,Extended lockdown mobility from the beginning,6
+112,0.8611783697188857,Extended lockdown mobility from the beginning,6
+113,0.8611716360294891,Extended lockdown mobility from the beginning,6
+114,0.8611649261377019,Extended lockdown mobility from the beginning,6
+115,0.8611582398594894,Extended lockdown mobility from the beginning,6
+116,0.8611515770126423,Extended lockdown mobility from the beginning,6
+117,0.8611449374168545,Extended lockdown mobility from the beginning,6
+118,0.8611383208937297,Extended lockdown mobility from the beginning,6
+119,0.8611317272666354,Extended lockdown mobility from the beginning,6
+120,0.8611251563607827,Extended lockdown mobility from the beginning,6
+121,0.8611186080032026,Extended lockdown mobility from the beginning,6
+122,0.8611120820226974,Extended lockdown mobility from the beginning,6
+123,0.8611055782497018,Extended lockdown mobility from the beginning,6
+124,0.8610990965165701,Extended lockdown mobility from the beginning,6
+125,0.8610926366571664,Extended lockdown mobility from the beginning,6
+126,0.8610861985071323,Extended lockdown mobility from the beginning,6
+127,0.861079781903789,Extended lockdown mobility from the beginning,6
+128,0.8610733866860213,Extended lockdown mobility from the beginning,6
+129,0.861067012694383,Extended lockdown mobility from the beginning,6
+130,0.8610606597710027,Extended lockdown mobility from the beginning,6
+131,0.8610543277596353,Extended lockdown mobility from the beginning,6
+132,0.861048016505492,Extended lockdown mobility from the beginning,6
+133,0.8610417258554789,Extended lockdown mobility from the beginning,6
+134,0.8610354556578204,Extended lockdown mobility from the beginning,6
+135,0.8610292057624224,Extended lockdown mobility from the beginning,6
+136,0.8610229760205675,Extended lockdown mobility from the beginning,6
+137,0.8610167662850705,Extended lockdown mobility from the beginning,6
+138,0.8610105764101168,Extended lockdown mobility from the beginning,6
+139,0.8610044062514106,Extended lockdown mobility from the beginning,6
+140,0.8609982556659785,Extended lockdown mobility from the beginning,6
+141,0.8609921245122988,Extended lockdown mobility from the beginning,6
+142,0.8609860126502282,Extended lockdown mobility from the beginning,6
+143,0.8609799199409401,Extended lockdown mobility from the beginning,6
+144,0.8609738462469909,Extended lockdown mobility from the beginning,6
+145,0.8609677914322678,Extended lockdown mobility from the beginning,6
+146,0.8609617553619204,Extended lockdown mobility from the beginning,6
+147,0.860955737902494,Extended lockdown mobility from the beginning,6
+148,0.8609497389217037,Extended lockdown mobility from the beginning,6
+149,0.8609437582885915,Extended lockdown mobility from the beginning,6
+150,0.8609377958734591,Extended lockdown mobility from the beginning,6
+151,0.8609318515478112,Extended lockdown mobility from the beginning,6
+152,0.8609259251843558,Extended lockdown mobility from the beginning,6
+153,0.8609200166571016,Extended lockdown mobility from the beginning,6
+154,0.8609141258411452,Extended lockdown mobility from the beginning,6
+155,0.8609082526128363,Extended lockdown mobility from the beginning,6
+156,0.8609023968496571,Extended lockdown mobility from the beginning,6
+157,0.8608965584302312,Extended lockdown mobility from the beginning,6
+158,0.8608907372343358,Extended lockdown mobility from the beginning,6
+159,0.8608849331428691,Extended lockdown mobility from the beginning,6
+160,0.8608791460378521,Extended lockdown mobility from the beginning,6
+161,0.8608733758024465,Extended lockdown mobility from the beginning,6
+162,0.8608676223207451,Extended lockdown mobility from the beginning,6
+163,0.8608618854781191,Extended lockdown mobility from the beginning,6
+164,0.8608561651608537,Extended lockdown mobility from the beginning,6
+165,0.8608504612563536,Extended lockdown mobility from the beginning,6
+166,0.8608447736530721,Extended lockdown mobility from the beginning,6
+167,0.8608391022403808,Extended lockdown mobility from the beginning,6
+168,0.8608334469087939,Extended lockdown mobility from the beginning,6
+169,0.8608278075497912,Extended lockdown mobility from the beginning,6
+170,0.860822184055841,Extended lockdown mobility from the beginning,6
+171,0.8608165763203152,Extended lockdown mobility from the beginning,6
+172,0.8608109842376981,Extended lockdown mobility from the beginning,6
+173,0.860805407703314,Extended lockdown mobility from the beginning,6
+174,0.8607998466134978,Extended lockdown mobility from the beginning,6
+175,0.8607943008654971,Extended lockdown mobility from the beginning,6
+176,0.8607887703574763,Extended lockdown mobility from the beginning,6
+177,0.8607832549885487,Extended lockdown mobility from the beginning,6
+178,0.8607777546587175,Extended lockdown mobility from the beginning,6
+179,0.8607722692688625,Extended lockdown mobility from the beginning,6
+180,0.8607667987207985,Extended lockdown mobility from the beginning,6
+181,0.8607613429171624,Extended lockdown mobility from the beginning,6
+182,0.8607559017615004,Extended lockdown mobility from the beginning,6
+183,0.8607504751581732,Extended lockdown mobility from the beginning,6
+184,0.8607450630124315,Extended lockdown mobility from the beginning,6
+185,0.8607396652303667,Extended lockdown mobility from the beginning,6
+186,0.8607342817188556,Extended lockdown mobility from the beginning,6
+187,0.8607289123856289,Extended lockdown mobility from the beginning,6
+188,0.8607235571392172,Extended lockdown mobility from the beginning,6
+189,0.860718215888975,Extended lockdown mobility from the beginning,6
+190,0.860712888545016,Extended lockdown mobility from the beginning,6
+191,0.860707575018309,Extended lockdown mobility from the beginning,6
+192,0.860702275220467,Extended lockdown mobility from the beginning,6
+193,0.8606969890640155,Extended lockdown mobility from the beginning,6
+194,0.8606917164621806,Extended lockdown mobility from the beginning,6
+195,0.8606864573289248,Extended lockdown mobility from the beginning,6
+196,0.860681211578984,Extended lockdown mobility from the beginning,6
+197,0.8606759791277997,Extended lockdown mobility from the beginning,6
+198,0.8606707598915856,Extended lockdown mobility from the beginning,6
+199,0.8606655537872595,Extended lockdown mobility from the beginning,6
+200,0.8606603607324006,Extended lockdown mobility from the beginning,6
+201,0.8606551806454023,Extended lockdown mobility from the beginning,6
+202,0.8606500134452671,Extended lockdown mobility from the beginning,6
+203,0.860644859051728,Extended lockdown mobility from the beginning,6
+204,0.8606397173851603,Extended lockdown mobility from the beginning,6
+205,0.860634588366686,Extended lockdown mobility from the beginning,6
+206,0.8606294719180544,Extended lockdown mobility from the beginning,6
+207,0.8606243679616882,Extended lockdown mobility from the beginning,6
+208,0.8606192764206632,Extended lockdown mobility from the beginning,6
+209,0.860614197218658,Extended lockdown mobility from the beginning,6
+210,0.8606091302801209,Extended lockdown mobility from the beginning,6
+211,0.8606040755300041,Extended lockdown mobility from the beginning,6
+212,0.8605990328939406,Extended lockdown mobility from the beginning,6
+213,0.8605940022982096,Extended lockdown mobility from the beginning,6
+214,0.8605889836696878,Extended lockdown mobility from the beginning,6
+215,0.8605839769358345,Extended lockdown mobility from the beginning,6
+216,0.86057898202475,Extended lockdown mobility from the beginning,6
+217,0.860573998865172,Extended lockdown mobility from the beginning,6
+218,0.8605690273863217,Extended lockdown mobility from the beginning,6
+219,0.8605640675180695,Extended lockdown mobility from the beginning,6
+220,0.8605591191909043,Extended lockdown mobility from the beginning,6
+221,0.8605541823358186,Extended lockdown mobility from the beginning,6
+222,0.8605492568844196,Extended lockdown mobility from the beginning,6
+223,0.8605443427688625,Extended lockdown mobility from the beginning,6
+224,0.8605394399218419,Extended lockdown mobility from the beginning,6
+225,0.8605345482766535,Extended lockdown mobility from the beginning,6
+226,0.860529667767089,Extended lockdown mobility from the beginning,6
+227,0.8605247983275207,Extended lockdown mobility from the beginning,6
+228,0.860519939892826,Extended lockdown mobility from the beginning,6
+229,0.8605150923984194,Extended lockdown mobility from the beginning,6
+230,0.8605102557802639,Extended lockdown mobility from the beginning,6
+231,0.8605054299748085,Extended lockdown mobility from the beginning,6
+232,0.8605006149190506,Extended lockdown mobility from the beginning,6
+233,0.8604958105504631,Extended lockdown mobility from the beginning,6
+234,0.860491016807059,Extended lockdown mobility from the beginning,6
+235,0.8604862336273351,Extended lockdown mobility from the beginning,6
+236,0.8604814609502793,Extended lockdown mobility from the beginning,6
+237,0.8604766987153969,Extended lockdown mobility from the beginning,6
+238,0.8604719468626131,Extended lockdown mobility from the beginning,6
+239,0.8604672053323933,Extended lockdown mobility from the beginning,6
+240,0.8604624740657012,Extended lockdown mobility from the beginning,6
+241,0.860457753003908,Extended lockdown mobility from the beginning,6
+242,0.8604530420888602,Extended lockdown mobility from the beginning,6
+243,0.8604483412629148,Extended lockdown mobility from the beginning,6
+244,0.8604436504688485,Extended lockdown mobility from the beginning,6
+245,0.8604389696499218,Extended lockdown mobility from the beginning,6
+246,0.8604342987498197,Extended lockdown mobility from the beginning,6
+247,0.8604296377126536,Extended lockdown mobility from the beginning,6
+248,0.8604249864830362,Extended lockdown mobility from the beginning,6
+249,0.8604203450059664,Extended lockdown mobility from the beginning,6
+250,0.860415713226927,Extended lockdown mobility from the beginning,6
+251,0.8604110910917602,Extended lockdown mobility from the beginning,6
+252,0.860406478546759,Extended lockdown mobility from the beginning,6
+253,0.8604018755387052,Extended lockdown mobility from the beginning,6
+254,0.8603972820146878,Extended lockdown mobility from the beginning,6
+255,0.8603926979223038,Extended lockdown mobility from the beginning,6
+256,0.8603881232094999,Extended lockdown mobility from the beginning,6
+257,0.8603835578246188,Extended lockdown mobility from the beginning,6
+258,0.8603790017165014,Extended lockdown mobility from the beginning,6
+259,0.8603744548342621,Extended lockdown mobility from the beginning,6
+260,0.8603699171274749,Extended lockdown mobility from the beginning,6
+261,0.8603653885461269,Extended lockdown mobility from the beginning,6
+262,0.8603608690405493,Extended lockdown mobility from the beginning,6
+263,0.8603563585614649,Extended lockdown mobility from the beginning,6
+264,0.8603518570599641,Extended lockdown mobility from the beginning,6
+265,0.8603473644875708,Extended lockdown mobility from the beginning,6
+266,0.8603428807961369,Extended lockdown mobility from the beginning,6
+267,0.8603384059378514,Extended lockdown mobility from the beginning,6
+268,0.8603339398653648,Extended lockdown mobility from the beginning,6
+269,0.8603294825316176,Extended lockdown mobility from the beginning,6
+270,0.8603250338899071,Extended lockdown mobility from the beginning,6
+271,0.8603205938939331,Extended lockdown mobility from the beginning,6
+272,0.8603161624977459,Extended lockdown mobility from the beginning,6
+273,0.8603117396556801,Extended lockdown mobility from the beginning,6
+274,0.8603073253224794,Extended lockdown mobility from the beginning,6
+275,0.8603029194532575,Extended lockdown mobility from the beginning,6
+276,0.8602985220033766,Extended lockdown mobility from the beginning,6
+277,0.8602941329286043,Extended lockdown mobility from the beginning,6
+278,0.8602897521850296,Extended lockdown mobility from the beginning,6
+279,0.8602853797290911,Extended lockdown mobility from the beginning,6
+280,0.8602810155175117,Extended lockdown mobility from the beginning,6
+281,0.860276659507388,Extended lockdown mobility from the beginning,6
+282,0.8602723116560995,Extended lockdown mobility from the beginning,6
+283,0.8602679719213919,Extended lockdown mobility from the beginning,6
+284,0.8602636402612821,Extended lockdown mobility from the beginning,6
+285,0.8602593166341215,Extended lockdown mobility from the beginning,6
+286,0.8602550009985943,Extended lockdown mobility from the beginning,6
+287,0.8602506933136714,Extended lockdown mobility from the beginning,6
+288,0.860246393538639,Extended lockdown mobility from the beginning,6
+289,0.8602421016330508,Extended lockdown mobility from the beginning,6
+290,0.8602378175568414,Extended lockdown mobility from the beginning,6
+291,0.8602335412701795,Extended lockdown mobility from the beginning,6
+292,0.86022927273353,Extended lockdown mobility from the beginning,6
+293,0.8602250119077147,Extended lockdown mobility from the beginning,6
+294,0.8602207587537878,Extended lockdown mobility from the beginning,6
+295,0.8602165132330866,Extended lockdown mobility from the beginning,6
+296,0.8602122753072714,Extended lockdown mobility from the beginning,6
+297,0.8602080449382761,Extended lockdown mobility from the beginning,6
+298,0.8602038220883309,Extended lockdown mobility from the beginning,6
+299,0.8601996067199056,Extended lockdown mobility from the beginning,6
+300,0.8601953987957467,Extended lockdown mobility from the beginning,6
+301,0.8601911982789361,Extended lockdown mobility from the beginning,6
+302,0.8601870051327587,Extended lockdown mobility from the beginning,6
+303,0.8601828193208639,Extended lockdown mobility from the beginning,6
+304,0.8601786408070031,Extended lockdown mobility from the beginning,6
+305,0.8601744695553516,Extended lockdown mobility from the beginning,6
+306,0.8601703055303345,Extended lockdown mobility from the beginning,6
+307,0.8601661486965128,Extended lockdown mobility from the beginning,6
+308,0.8601619990188444,Extended lockdown mobility from the beginning,6
+309,0.8601578564624802,Extended lockdown mobility from the beginning,6
+310,0.8601537209928062,Extended lockdown mobility from the beginning,6
+311,0.8601495925755059,Extended lockdown mobility from the beginning,6
+312,0.86014547117649,Extended lockdown mobility from the beginning,6
+313,0.8601413567619516,Extended lockdown mobility from the beginning,6
+314,0.8601372492982761,Extended lockdown mobility from the beginning,6
+315,0.86013314875213,Extended lockdown mobility from the beginning,6
+316,0.8601290550903915,Extended lockdown mobility from the beginning,6
+317,0.8601249682802351,Extended lockdown mobility from the beginning,6
+318,0.8601208882890129,Extended lockdown mobility from the beginning,6
+319,0.8601168150843562,Extended lockdown mobility from the beginning,6
+320,0.8601127486340813,Extended lockdown mobility from the beginning,6
+321,0.8601086889062961,Extended lockdown mobility from the beginning,6
+322,0.8601046358693165,Extended lockdown mobility from the beginning,6
+323,0.860100589491659,Extended lockdown mobility from the beginning,6
+324,0.8600965497421296,Extended lockdown mobility from the beginning,6
+325,0.8600925165896693,Extended lockdown mobility from the beginning,6
+326,0.860088490003553,Extended lockdown mobility from the beginning,6
+327,0.8600844699531657,Extended lockdown mobility from the beginning,6
+328,0.8600804564082111,Extended lockdown mobility from the beginning,6
+329,0.8600764493385161,Extended lockdown mobility from the beginning,6
+330,0.8600724487142164,Extended lockdown mobility from the beginning,6
+331,0.8600684545056262,Extended lockdown mobility from the beginning,6
+332,0.860064466683215,Extended lockdown mobility from the beginning,6
+333,0.8600604852177477,Extended lockdown mobility from the beginning,6
+334,0.8600565100801512,Extended lockdown mobility from the beginning,6
+335,0.8600525412415838,Extended lockdown mobility from the beginning,6
+336,0.8600485786734221,Extended lockdown mobility from the beginning,6
+337,0.8600446223471784,Extended lockdown mobility from the beginning,6
+338,0.8600406722346884,Extended lockdown mobility from the beginning,6
+339,0.8600367283078136,Extended lockdown mobility from the beginning,6
+340,0.8600327905387937,Extended lockdown mobility from the beginning,6
+341,0.8600288588999615,Extended lockdown mobility from the beginning,6
+342,0.8600249333639159,Extended lockdown mobility from the beginning,6
+343,0.8600210139033698,Extended lockdown mobility from the beginning,6
+344,0.8600171004912824,Extended lockdown mobility from the beginning,6
+345,0.8600131931007979,Extended lockdown mobility from the beginning,6
+346,0.8600092917052401,Extended lockdown mobility from the beginning,6
+347,0.860005396278129,Extended lockdown mobility from the beginning,6
+348,0.8600015067931784,Extended lockdown mobility from the beginning,6
+349,0.8599976232242986,Extended lockdown mobility from the beginning,6
+350,0.8599937455455543,Extended lockdown mobility from the beginning,6
+351,0.8599898737311988,Extended lockdown mobility from the beginning,6
+352,0.8599860077557153,Extended lockdown mobility from the beginning,6
+353,0.859982147593668,Extended lockdown mobility from the beginning,6
+354,0.8599782932198875,Extended lockdown mobility from the beginning,6
+355,0.8599744446093999,Extended lockdown mobility from the beginning,6
+356,0.8599706017373193,Extended lockdown mobility from the beginning,6
+357,0.8599667645789886,Extended lockdown mobility from the beginning,6
+358,0.8599629331098978,Extended lockdown mobility from the beginning,6
+359,0.8599591073057788,Extended lockdown mobility from the beginning,6
+360,0.8599552871424644,Extended lockdown mobility from the beginning,6
+361,0.8599514725959381,Extended lockdown mobility from the beginning,6
+362,0.8599476636424341,Extended lockdown mobility from the beginning,6
+363,0.8599438602582863,Extended lockdown mobility from the beginning,6
+364,0.8599400624200638,Extended lockdown mobility from the beginning,6
+365,0.8599362701044214,Extended lockdown mobility from the beginning,6
+366,0.8599324832881975,Extended lockdown mobility from the beginning,6
+367,0.859928701948434,Extended lockdown mobility from the beginning,6
+368,0.8599249260622881,Extended lockdown mobility from the beginning,6
+369,0.8599211556071354,Extended lockdown mobility from the beginning,6
+370,0.8599173905604234,Extended lockdown mobility from the beginning,6
+371,0.8599136308998419,Extended lockdown mobility from the beginning,6
+372,0.8599098766032189,Extended lockdown mobility from the beginning,6
+373,0.8599061276484523,Extended lockdown mobility from the beginning,6
+374,0.8599023840137072,Extended lockdown mobility from the beginning,6
+375,0.8598986456772642,Extended lockdown mobility from the beginning,6
+376,0.8598949126175202,Extended lockdown mobility from the beginning,6
+377,0.8598911848130846,Extended lockdown mobility from the beginning,6
+378,0.8598874622426649,Extended lockdown mobility from the beginning,6
+379,0.8598837448851135,Extended lockdown mobility from the beginning,6
+380,0.8598800327195064,Extended lockdown mobility from the beginning,6
+381,0.8598763257249599,Extended lockdown mobility from the beginning,6
+382,0.8598726238807957,Extended lockdown mobility from the beginning,6
+383,0.8598689271664873,Extended lockdown mobility from the beginning,6
+384,0.8598652355616767,Extended lockdown mobility from the beginning,6
+385,0.8598615490460051,Extended lockdown mobility from the beginning,6
+386,0.8598578675994433,Extended lockdown mobility from the beginning,6
+387,0.8598541912019625,Extended lockdown mobility from the beginning,6
+388,0.8598505198337565,Extended lockdown mobility from the beginning,6
+389,0.8598468534751377,Extended lockdown mobility from the beginning,6
+390,0.8598431921064965,Extended lockdown mobility from the beginning,6
+391,0.8598395357084722,Extended lockdown mobility from the beginning,6
+0,1.3148657048540608,Partial lockdown mobility from the beginning,3
+1,1.314838793940557,Partial lockdown mobility from the beginning,3
+2,1.3148113511774426,Partial lockdown mobility from the beginning,3
+3,1.3147833654535444,Partial lockdown mobility from the beginning,3
+4,1.3147548254311914,Partial lockdown mobility from the beginning,3
+5,1.3147257195417563,Partial lockdown mobility from the beginning,3
+6,1.3146960359805753,Partial lockdown mobility from the beginning,3
+7,1.3146657627022609,Partial lockdown mobility from the beginning,3
+8,1.314634887415418,Partial lockdown mobility from the beginning,3
+9,1.3146033975778706,Partial lockdown mobility from the beginning,3
+10,1.3145712803911724,Partial lockdown mobility from the beginning,3
+11,1.3145385227955264,Partial lockdown mobility from the beginning,3
+12,1.3145051114642563,Partial lockdown mobility from the beginning,3
+13,1.3144710327984503,Partial lockdown mobility from the beginning,3
+14,1.3144362729211638,Partial lockdown mobility from the beginning,3
+15,1.3144008176719515,Partial lockdown mobility from the beginning,3
+16,1.3143646526008783,Partial lockdown mobility from the beginning,3
+17,1.3143277629626586,Partial lockdown mobility from the beginning,3
+18,1.3142901337106494,Partial lockdown mobility from the beginning,3
+19,1.3142517494907526,Partial lockdown mobility from the beginning,3
+20,1.314212594635099,Partial lockdown mobility from the beginning,3
+21,1.314172653155592,Partial lockdown mobility from the beginning,3
+22,1.314131908737655,Partial lockdown mobility from the beginning,3
+23,1.314090344733443,Partial lockdown mobility from the beginning,3
+24,1.31404794415511,Partial lockdown mobility from the beginning,3
+25,1.3140046896680555,Partial lockdown mobility from the beginning,3
+26,1.3139605635838787,Partial lockdown mobility from the beginning,3
+27,1.313915547853404,Partial lockdown mobility from the beginning,3
+28,1.3138696240591758,Partial lockdown mobility from the beginning,3
+29,1.3138227734083257,Partial lockdown mobility from the beginning,3
+30,1.3137749767249964,Partial lockdown mobility from the beginning,3
+31,1.3137262144427757,Partial lockdown mobility from the beginning,3
+32,1.3136764665967493,Partial lockdown mobility from the beginning,3
+33,1.3136257128157605,Partial lockdown mobility from the beginning,3
+34,1.3135739323143438,Partial lockdown mobility from the beginning,3
+35,1.3135211038843515,Partial lockdown mobility from the beginning,3
+36,1.3134672058869228,Partial lockdown mobility from the beginning,3
+37,1.3134122162436677,Partial lockdown mobility from the beginning,3
+38,1.3133561124282218,Partial lockdown mobility from the beginning,3
+39,1.3132988714574785,Partial lockdown mobility from the beginning,3
+40,1.3132404698825266,Partial lockdown mobility from the beginning,3
+41,1.313180883779614,Partial lockdown mobility from the beginning,3
+42,1.3131200887409094,Partial lockdown mobility from the beginning,3
+43,1.3130580598650488,Partial lockdown mobility from the beginning,3
+44,1.3129947717476864,Partial lockdown mobility from the beginning,3
+45,1.3129301984715394,Partial lockdown mobility from the beginning,3
+46,1.3128643135967086,Partial lockdown mobility from the beginning,3
+47,1.3127970901504622,Partial lockdown mobility from the beginning,3
+48,1.3127285006171874,Partial lockdown mobility from the beginning,3
+49,1.3126585169277007,Partial lockdown mobility from the beginning,3
+50,1.3125871104489797,Partial lockdown mobility from the beginning,3
+51,1.312514251973263,Partial lockdown mobility from the beginning,3
+52,1.3124399117071364,Partial lockdown mobility from the beginning,3
+53,1.312364059260477,Partial lockdown mobility from the beginning,3
+54,1.3122866636352328,Partial lockdown mobility from the beginning,3
+55,1.3122076932138254,Partial lockdown mobility from the beginning,3
+56,1.3121271157477117,Partial lockdown mobility from the beginning,3
+57,1.3120448983454884,Partial lockdown mobility from the beginning,3
+58,1.3119610074607972,Partial lockdown mobility from the beginning,3
+59,1.3118754088804507,Partial lockdown mobility from the beginning,3
+60,1.3117880677117078,Partial lockdown mobility from the beginning,3
+61,1.3116989483700474,Partial lockdown mobility from the beginning,3
+62,1.311608014566343,Partial lockdown mobility from the beginning,3
+63,1.311515229293881,Partial lockdown mobility from the beginning,3
+64,1.3114205548153215,Partial lockdown mobility from the beginning,3
+65,1.311323952649465,Partial lockdown mobility from the beginning,3
+66,1.3112253835577756,Partial lockdown mobility from the beginning,3
+67,1.3111248075306694,Partial lockdown mobility from the beginning,3
+68,1.3110221837736258,Partial lockdown mobility from the beginning,3
+69,1.31091747069346,Partial lockdown mobility from the beginning,3
+70,1.310810625883692,Partial lockdown mobility from the beginning,3
+71,1.310701606110482,Partial lockdown mobility from the beginning,3
+72,1.3105903672978216,Partial lockdown mobility from the beginning,3
+73,1.3104768645130371,Partial lockdown mobility from the beginning,3
+74,1.3103610519515634,Partial lockdown mobility from the beginning,3
+75,1.3102428829218418,Partial lockdown mobility from the beginning,3
+76,1.310122309830313,Partial lockdown mobility from the beginning,3
+77,1.3099992841655734,Partial lockdown mobility from the beginning,3
+78,1.309873756482928,Partial lockdown mobility from the beginning,3
+79,1.3097456763884574,Partial lockdown mobility from the beginning,3
+80,1.3096149925230454,Partial lockdown mobility from the beginning,3
+81,1.3094816525461626,Partial lockdown mobility from the beginning,3
+82,1.3093456031196762,Partial lockdown mobility from the beginning,3
+83,1.3092067898911643,Partial lockdown mobility from the beginning,3
+84,1.3090651574773768,Partial lockdown mobility from the beginning,3
+85,1.3089206494473236,Partial lockdown mobility from the beginning,3
+86,1.3087732083054944,Partial lockdown mobility from the beginning,3
+87,1.3086227754745303,Partial lockdown mobility from the beginning,3
+88,1.3084692912781746,Partial lockdown mobility from the beginning,3
+89,1.3083126949237875,Partial lockdown mobility from the beginning,3
+90,1.3081529244849686,Partial lockdown mobility from the beginning,3
+91,1.307989916883734,Partial lockdown mobility from the beginning,3
+92,1.3078236078730014,Partial lockdown mobility from the beginning,3
+93,1.307653932018659,Partial lockdown mobility from the beginning,3
+94,1.3074808226816454,Partial lockdown mobility from the beginning,3
+95,1.3073042119998333,Partial lockdown mobility from the beginning,3
+96,1.307124030870138,Partial lockdown mobility from the beginning,3
+97,1.3069402089301878,Partial lockdown mobility from the beginning,3
+98,1.306752674540157,Partial lockdown mobility from the beginning,3
+99,1.3065613547644548,Partial lockdown mobility from the beginning,3
+100,1.3063661753533804,Partial lockdown mobility from the beginning,3
+101,1.306167060724984,Partial lockdown mobility from the beginning,3
+102,1.3059639339464393,Partial lockdown mobility from the beginning,3
+103,1.3057567167158255,Partial lockdown mobility from the beginning,3
+104,1.3055453293438917,Partial lockdown mobility from the beginning,3
+105,1.3053296907355505,Partial lockdown mobility from the beginning,3
+106,1.305109718371827,Partial lockdown mobility from the beginning,3
+107,1.3048853282914563,Partial lockdown mobility from the beginning,3
+108,1.3046564350729777,Partial lockdown mobility from the beginning,3
+109,1.304422951816598,Partial lockdown mobility from the beginning,3
+110,1.304184790126298,Partial lockdown mobility from the beginning,3
+111,1.303941860092151,Partial lockdown mobility from the beginning,3
+112,1.3036940702726587,Partial lockdown mobility from the beginning,3
+113,1.303441327677307,Partial lockdown mobility from the beginning,3
+114,1.303183537749399,Partial lockdown mobility from the beginning,3
+115,1.3029206043491122,Partial lockdown mobility from the beginning,3
+116,1.3026524297366255,Partial lockdown mobility from the beginning,3
+117,1.302378914555754,Partial lockdown mobility from the beginning,3
+118,1.3020999578177583,Partial lockdown mobility from the beginning,3
+119,1.3018154568855846,Partial lockdown mobility from the beginning,3
+120,1.301525307458255,Partial lockdown mobility from the beginning,3
+121,1.3012294035559162,Partial lockdown mobility from the beginning,3
+122,1.3009276375052088,Partial lockdown mobility from the beginning,3
+123,1.300619899924906,Partial lockdown mobility from the beginning,3
+124,1.3003060797124295,Partial lockdown mobility from the beginning,3
+125,1.2999860640305263,Partial lockdown mobility from the beginning,3
+126,1.2996597382945645,Partial lockdown mobility from the beginning,3
+127,1.2993269861607644,Partial lockdown mobility from the beginning,3
+128,1.2989876895146617,Partial lockdown mobility from the beginning,3
+129,1.2986417284603469,Partial lockdown mobility from the beginning,3
+130,1.298288981310576,Partial lockdown mobility from the beginning,3
+131,1.297929324577488,Partial lockdown mobility from the beginning,3
+132,1.2975626329642451,Partial lockdown mobility from the beginning,3
+133,1.2971887793573038,Partial lockdown mobility from the beginning,3
+134,1.296807634820038,Partial lockdown mobility from the beginning,3
+135,1.2964190685866523,Partial lockdown mobility from the beginning,3
+136,1.2960229480577696,Partial lockdown mobility from the beginning,3
+137,1.2956191387965976,Partial lockdown mobility from the beginning,3
+138,1.2952075045263327,Partial lockdown mobility from the beginning,3
+139,1.294787907128784,Partial lockdown mobility from the beginning,3
+140,1.294360206644166,Partial lockdown mobility from the beginning,3
+141,1.293924261272143,Partial lockdown mobility from the beginning,3
+142,1.2934799273741528,Partial lockdown mobility from the beginning,3
+143,1.2930270594772972,Partial lockdown mobility from the beginning,3
+144,1.292565510279339,Partial lockdown mobility from the beginning,3
+145,1.292095130655669,Partial lockdown mobility from the beginning,3
+146,1.2916157696673003,Partial lockdown mobility from the beginning,3
+147,1.2911272745710092,Partial lockdown mobility from the beginning,3
+148,1.2906294908308915,Partial lockdown mobility from the beginning,3
+149,1.2901222621316308,Partial lockdown mobility from the beginning,3
+150,1.2896054303939033,Partial lockdown mobility from the beginning,3
+151,1.289078835791265,Partial lockdown mobility from the beginning,3
+152,1.2885423167694028,Partial lockdown mobility from the beginning,3
+153,1.2879957100672237,Partial lockdown mobility from the beginning,3
+154,1.2874388507401455,Partial lockdown mobility from the beginning,3
+155,1.286871572185263,Partial lockdown mobility from the beginning,3
+156,1.2862937061694455,Partial lockdown mobility from the beginning,3
+157,1.2857050828590606,Partial lockdown mobility from the beginning,3
+158,1.2851055308524235,Partial lockdown mobility from the beginning,3
+159,1.2844948772148286,Partial lockdown mobility from the beginning,3
+160,1.2838729475158746,Partial lockdown mobility from the beginning,3
+161,1.2832395658695424,Partial lockdown mobility from the beginning,3
+162,1.282594554977193,Partial lockdown mobility from the beginning,3
+163,1.281937736172715,Partial lockdown mobility from the beginning,3
+164,1.2812689294713204,Partial lockdown mobility from the beginning,3
+165,1.2805879536206657,Partial lockdown mobility from the beginning,3
+166,1.2798946261552402,Partial lockdown mobility from the beginning,3
+167,1.2791887634535464,Partial lockdown mobility from the beginning,3
+168,1.278470180798965,Partial lockdown mobility from the beginning,3
+169,1.2777386924431005,Partial lockdown mobility from the beginning,3
+170,1.2769941116730794,Partial lockdown mobility from the beginning,3
+171,1.276236250881434,Partial lockdown mobility from the beginning,3
+172,1.2754649216402971,Partial lockdown mobility from the beginning,3
+173,1.2746799347782032,Partial lockdown mobility from the beginning,3
+174,1.27388110046092,Partial lockdown mobility from the beginning,3
+175,1.2730682282756305,Partial lockdown mobility from the beginning,3
+176,1.2722411273187737,Partial lockdown mobility from the beginning,3
+177,1.2713996062876556,Partial lockdown mobility from the beginning,3
+178,1.2705434735756258,Partial lockdown mobility from the beginning,3
+179,1.2696725373711244,Partial lockdown mobility from the beginning,3
+180,1.2687866057604638,Partial lockdown mobility from the beginning,3
+181,1.2678854868344658,Partial lockdown mobility from the beginning,3
+182,1.266968988798869,Partial lockdown mobility from the beginning,3
+183,1.2660369200888193,Partial lockdown mobility from the beginning,3
+184,1.2650890894870537,Partial lockdown mobility from the beginning,3
+185,1.2641253062460065,Partial lockdown mobility from the beginning,3
+186,1.263145380213994,Partial lockdown mobility from the beginning,3
+187,1.2621491219651158,Partial lockdown mobility from the beginning,3
+188,1.2611363429331457,Partial lockdown mobility from the beginning,3
+189,1.2601068555493222,Partial lockdown mobility from the beginning,3
+190,1.2590604733840514,Partial lockdown mobility from the beginning,3
+191,1.2579970112922243,Partial lockdown mobility from the beginning,3
+192,1.2569162855626783,Partial lockdown mobility from the beginning,3
+193,1.255818114071003,Partial lockdown mobility from the beginning,3
+194,1.2547023164364832,Partial lockdown mobility from the beginning,3
+195,1.253568714182263,Partial lockdown mobility from the beginning,3
+196,1.25241713089934,Partial lockdown mobility from the beginning,3
+197,1.2512473924139218,Partial lockdown mobility from the beginning,3
+198,1.25005932695825,Partial lockdown mobility from the beginning,3
+199,1.2488527653444532,Partial lockdown mobility from the beginning,3
+200,1.247627541141982,Partial lockdown mobility from the beginning,3
+201,1.2463834908577125,Partial lockdown mobility from the beginning,3
+202,1.2451204541189926,Partial lockdown mobility from the beginning,3
+203,1.2438382738599068,Partial lockdown mobility from the beginning,3
+204,1.2425367965093166,Partial lockdown mobility from the beginning,3
+205,1.2412158721822784,Partial lockdown mobility from the beginning,3
+206,1.2398753548728525,Partial lockdown mobility from the beginning,3
+207,1.2385151026495926,Partial lockdown mobility from the beginning,3
+208,1.2371349778526897,Partial lockdown mobility from the beginning,3
+209,1.2357348472926193,Partial lockdown mobility from the beginning,3
+210,1.23431458245051,Partial lockdown mobility from the beginning,3
+211,1.2328740596794974,Partial lockdown mobility from the beginning,3
+212,1.2314131604070266,Partial lockdown mobility from the beginning,3
+213,1.229931771338045,Partial lockdown mobility from the beginning,3
+214,1.228429784658334,Partial lockdown mobility from the beginning,3
+215,1.22690709823817,Partial lockdown mobility from the beginning,3
+216,1.2253636158357917,Partial lockdown mobility from the beginning,3
+217,1.2237992473005077,Partial lockdown mobility from the beginning,3
+218,1.2222139087748265,Partial lockdown mobility from the beginning,3
+219,1.2206075228956936,Partial lockdown mobility from the beginning,3
+220,1.2189800189943694,Partial lockdown mobility from the beginning,3
+221,1.217331333294435,Partial lockdown mobility from the beginning,3
+222,1.2156614091078035,Partial lockdown mobility from the beginning,3
+223,1.2139701970283598,Partial lockdown mobility from the beginning,3
+224,1.212257655122597,Partial lockdown mobility from the beginning,3
+225,1.210523749117501,Partial lockdown mobility from the beginning,3
+226,1.2087684525846512,Partial lockdown mobility from the beginning,3
+227,1.2069917471203606,Partial lockdown mobility from the beginning,3
+228,1.2051936225218818,Partial lockdown mobility from the beginning,3
+229,1.203374076958865,Partial lockdown mobility from the beginning,3
+230,1.201533117139732,Partial lockdown mobility from the beginning,3
+231,1.1996707584726258,Partial lockdown mobility from the beginning,3
+232,1.1977870252208906,Partial lockdown mobility from the beginning,3
+233,1.195881950652249,Partial lockdown mobility from the beginning,3
+234,1.1939555771812844,Partial lockdown mobility from the beginning,3
+235,1.1920079565055353,Partial lockdown mobility from the beginning,3
+236,1.1900391497338922,Partial lockdown mobility from the beginning,3
+237,1.1880492275075332,Partial lockdown mobility from the beginning,3
+238,1.1860382701131829,Partial lockdown mobility from the beginning,3
+239,1.1840063675875816,Partial lockdown mobility from the beginning,3
+240,1.1819536198138416,Partial lockdown mobility from the beginning,3
+241,1.1798801366083955,Partial lockdown mobility from the beginning,3
+242,1.1777860377991685,Partial lockdown mobility from the beginning,3
+243,1.1756714532935475,Partial lockdown mobility from the beginning,3
+244,1.1735365231370642,Partial lockdown mobility from the beginning,3
+245,1.17138139756169,Partial lockdown mobility from the beginning,3
+246,1.1692062370237666,Partial lockdown mobility from the beginning,3
+247,1.1670112122312275,Partial lockdown mobility from the beginning,3
+248,1.1647965041601362,Partial lockdown mobility from the beginning,3
+249,1.1625623040599795,Partial lockdown mobility from the beginning,3
+250,1.1603088134477906,Partial lockdown mobility from the beginning,3
+251,1.1580362440909082,Partial lockdown mobility from the beginning,3
+252,1.155744817978004,Partial lockdown mobility from the beginning,3
+253,1.1534347672785463,Partial lockdown mobility from the beginning,3
+254,1.1511063342906087,Partial lockdown mobility from the beginning,3
+255,1.1487597713763258,Partial lockdown mobility from the beginning,3
+256,1.146395340886068,Partial lockdown mobility from the beginning,3
+257,1.144013315070209,Partial lockdown mobility from the beginning,3
+258,1.1416139759791022,Partial lockdown mobility from the beginning,3
+259,1.1391976153509655,Partial lockdown mobility from the beginning,3
+260,1.136764534488318,Partial lockdown mobility from the beginning,3
+261,1.134315044122045,Partial lockdown mobility from the beginning,3
+262,1.131849464263884,Partial lockdown mobility from the beginning,3
+263,1.129368124047755,Partial lockdown mobility from the beginning,3
+264,1.126871361559006,Partial lockdown mobility from the beginning,3
+265,1.124359523652719,Partial lockdown mobility from the beginning,3
+266,1.1218329657609554,Partial lockdown mobility from the beginning,3
+267,1.119292051688951,Partial lockdown mobility from the beginning,3
+268,1.1167371534009225,Partial lockdown mobility from the beginning,3
+269,1.1141686507953092,Partial lockdown mobility from the beginning,3
+270,1.1115869314701423,Partial lockdown mobility from the beginning,3
+271,1.1089923904785686,Partial lockdown mobility from the beginning,3
+272,1.1063854300750668,Partial lockdown mobility from the beginning,3
+273,1.1037664594525822,Partial lockdown mobility from the beginning,3
+274,1.101135894471008,Partial lockdown mobility from the beginning,3
+275,1.098494157377456,Partial lockdown mobility from the beginning,3
+276,1.09584167651856,Partial lockdown mobility from the beginning,3
+277,1.0931788860456522,Partial lockdown mobility from the beginning,3
+278,1.0905062256125884,Partial lockdown mobility from the beginning,3
+279,1.087824140067455,Partial lockdown mobility from the beginning,3
+280,1.0851330791381175,Partial lockdown mobility from the beginning,3
+281,1.0824334971120733,Partial lockdown mobility from the beginning,3
+282,1.079725852511746,Partial lockdown mobility from the beginning,3
+283,1.0770106077646102,Partial lockdown mobility from the beginning,3
+284,1.0742882288699944,Partial lockdown mobility from the beginning,3
+285,1.0715591850620054,Partial lockdown mobility from the beginning,3
+286,1.0688239484695812,Partial lockdown mobility from the beginning,3
+287,1.0660829937742051,Partial lockdown mobility from the beginning,3
+288,1.0633367978658044,Partial lockdown mobility from the beginning,3
+289,1.0605858394970684,Partial lockdown mobility from the beginning,3
+290,1.0578305989373262,Partial lockdown mobility from the beginning,3
+291,1.055071557625953,Partial lockdown mobility from the beginning,3
+292,1.052309197825858,Partial lockdown mobility from the beginning,3
+293,1.0495440022783824,Partial lockdown mobility from the beginning,3
+294,1.0467764538587363,Partial lockdown mobility from the beginning,3
+295,1.0440070352339177,Partial lockdown mobility from the beginning,3
+296,1.0412362285225212,Partial lockdown mobility from the beginning,3
+297,1.0384645149577505,Partial lockdown mobility from the beginning,3
+298,1.0356923745533522,Partial lockdown mobility from the beginning,3
+299,1.0329202857737148,Partial lockdown mobility from the beginning,3
+300,1.0301487252078352,Partial lockdown mobility from the beginning,3
+301,1.027378167248394,Partial lockdown mobility from the beginning,3
+302,1.024609083775601,Partial lockdown mobility from the beginning,3
+303,1.0218419438467008,Partial lockdown mobility from the beginning,3
+304,1.0190772133914725,Partial lockdown mobility from the beginning,3
+305,1.016315354913929,Partial lockdown mobility from the beginning,3
+306,1.013556827200762,Partial lockdown mobility from the beginning,3
+307,1.0108020850367427,Partial lockdown mobility from the beginning,3
+308,1.0080515789275302,Partial lockdown mobility from the beginning,3
+309,1.0053057548300168,Partial lockdown mobility from the beginning,3
+310,1.00256505389075,Partial lockdown mobility from the beginning,3
+311,0.9998299121924435,Partial lockdown mobility from the beginning,3
+312,0.9971007605087432,Partial lockdown mobility from the beginning,3
+313,0.9943780240681354,Partial lockdown mobility from the beginning,3
+314,0.99166212232614,Partial lockdown mobility from the beginning,3
+315,0.988953468746961,Partial lockdown mobility from the beginning,3
+316,0.9862524705940888,Partial lockdown mobility from the beginning,3
+317,0.9835595287303328,Partial lockdown mobility from the beginning,3
+318,0.9808750374272364,Partial lockdown mobility from the beginning,3
+319,0.9781993841841926,Partial lockdown mobility from the beginning,3
+320,0.9755329495569256,Partial lockdown mobility from the beginning,3
+321,0.9728761069959638,Partial lockdown mobility from the beginning,3
+322,0.970229222694366,Partial lockdown mobility from the beginning,3
+323,0.9675926554458762,Partial lockdown mobility from the beginning,3
+324,0.9649667565121056,Partial lockdown mobility from the beginning,3
+325,0.9623518694997852,Partial lockdown mobility from the beginning,3
+326,0.9597483302478592,Partial lockdown mobility from the beginning,3
+327,0.957156466723652,Partial lockdown mobility from the beginning,3
+328,0.9545765989292652,Partial lockdown mobility from the beginning,3
+329,0.9520090388169918,Partial lockdown mobility from the beginning,3
+330,0.949454090214134,Partial lockdown mobility from the beginning,3
+331,0.9469120487574172,Partial lockdown mobility from the beginning,3
+332,0.9443832018360976,Partial lockdown mobility from the beginning,3
+333,0.9418678285443612,Partial lockdown mobility from the beginning,3
+334,0.9393661996424898,Partial lockdown mobility from the beginning,3
+335,0.936878577526625,Partial lockdown mobility from the beginning,3
+336,0.9344052162071468,Partial lockdown mobility from the beginning,3
+337,0.9319463612952336,Partial lockdown mobility from the beginning,3
+338,0.9295022499976652,Partial lockdown mobility from the beginning,3
+339,0.9270731111195456,Partial lockdown mobility from the beginning,3
+340,0.9246591650745462,Partial lockdown mobility from the beginning,3
+341,0.9222606239029494,Partial lockdown mobility from the beginning,3
+342,0.9198776912965486,Partial lockdown mobility from the beginning,3
+343,0.917510562631102,Partial lockdown mobility from the beginning,3
+344,0.915159425005066,Partial lockdown mobility from the beginning,3
+345,0.9128244572852848,Partial lockdown mobility from the beginning,3
+346,0.910505830158764,Partial lockdown mobility from the beginning,3
+347,0.9082037061906876,Partial lockdown mobility from the beginning,3
+348,0.9059182398881184,Partial lockdown mobility from the beginning,3
+349,0.9036495777693953,Partial lockdown mobility from the beginning,3
+350,0.9013978584388532,Partial lockdown mobility from the beginning,3
+351,0.899163212666508,Partial lockdown mobility from the beginning,3
+352,0.8969457634728043,Partial lockdown mobility from the beginning,3
+353,0.8947456262177319,Partial lockdown mobility from the beginning,3
+354,0.8925629086943367,Partial lockdown mobility from the beginning,3
+355,0.8903977112264724,Partial lockdown mobility from the beginning,3
+356,0.8882501267702665,Partial lockdown mobility from the beginning,3
+357,0.8861202410190875,Partial lockdown mobility from the beginning,3
+358,0.8840081325122279,Partial lockdown mobility from the beginning,3
+359,0.8819138727463306,Partial lockdown mobility from the beginning,3
+360,0.8798375262900184,Partial lockdown mobility from the beginning,3
+361,0.8777791509010608,Partial lockdown mobility from the beginning,3
+362,0.8757387976460027,Partial lockdown mobility from the beginning,3
+363,0.8737165110220467,Partial lockdown mobility from the beginning,3
+364,0.8717123290811034,Partial lockdown mobility from the beginning,3
+365,0.8697262835552352,Partial lockdown mobility from the beginning,3
+366,0.8677583999842611,Partial lockdown mobility from the beginning,3
+367,0.8658086978444173,Partial lockdown mobility from the beginning,3
+368,0.8638771906781931,Partial lockdown mobility from the beginning,3
+369,0.861963886225565,Partial lockdown mobility from the beginning,3
+370,0.860068786555705,Partial lockdown mobility from the beginning,3
+371,0.858191888199482,Partial lockdown mobility from the beginning,3
+372,0.8563331822825989,Partial lockdown mobility from the beginning,3
+373,0.854492654658866,Partial lockdown mobility from the beginning,3
+374,0.8526702860438437,Partial lockdown mobility from the beginning,3
+375,0.8508660521483564,Partial lockdown mobility from the beginning,3
+376,0.8490799238120912,Partial lockdown mobility from the beginning,3
+377,0.8473118671366431,Partial lockdown mobility from the beginning,3
+378,0.8455618436185507,Partial lockdown mobility from the beginning,3
+379,0.8438298102815236,Partial lockdown mobility from the beginning,3
+380,0.8421157198081444,Partial lockdown mobility from the beginning,3
+381,0.8404195206708549,Partial lockdown mobility from the beginning,3
+382,0.8387411572619825,Partial lockdown mobility from the beginning,3
+383,0.8370805700229194,Partial lockdown mobility from the beginning,3
+384,0.8354376955722314,Partial lockdown mobility from the beginning,3
+385,0.8338124668324162,Partial lockdown mobility from the beginning,3
+386,0.8322048131557152,Partial lockdown mobility from the beginning,3
+387,0.8306146604484376,Partial lockdown mobility from the beginning,3
+388,0.8290419312938485,Partial lockdown mobility from the beginning,3
+389,0.8274865450736574,Partial lockdown mobility from the beginning,3
+390,0.8259484180880582,Partial lockdown mobility from the beginning,3
+391,0.8244274636739034,Partial lockdown mobility from the beginning,3
+0,1.9146450333569107,Only partial lockdown mobility,2
+1,1.9000415274285145,Only partial lockdown mobility,2
+2,1.885436513519117,Only partial lockdown mobility,2
+3,1.870829996477657,Only partial lockdown mobility,2
+4,1.8562219834062883,Only partial lockdown mobility,2
+5,1.8416124835899508,Only partial lockdown mobility,2
+6,1.8270015084173972,Only partial lockdown mobility,2
+7,1.811621561013524,Only partial lockdown mobility,2
+8,1.8112331556382049,Only partial lockdown mobility,2
+9,1.8089947907212551,Only partial lockdown mobility,2
+10,1.8067533034292376,Only partial lockdown mobility,2
+11,1.8045085613117064,Only partial lockdown mobility,2
+12,1.8022604254111936,Only partial lockdown mobility,2
+13,1.8000087498252948,Only partial lockdown mobility,2
+14,1.7960726080526872,Only partial lockdown mobility,2
+15,1.7960045584013955,Only partial lockdown mobility,2
+16,1.7942190055207266,Only partial lockdown mobility,2
+17,1.7924290793235562,Only partial lockdown mobility,2
+18,1.790634590345189,Only partial lockdown mobility,2
+19,1.788835340304612,Only partial lockdown mobility,2
+20,1.7870311216128567,Only partial lockdown mobility,2
+21,1.7832449403139017,Only partial lockdown mobility,2
+22,1.7734058317810288,Only partial lockdown mobility,2
+23,1.7614372636530615,Only partial lockdown mobility,2
+24,1.7494658058860912,Only partial lockdown mobility,2
+25,1.7374914842451743,Only partial lockdown mobility,2
+26,1.7255143289716652,Only partial lockdown mobility,2
+27,1.713534374679741,Only partial lockdown mobility,2
+28,1.7001270332071128,Only partial lockdown mobility,2
+29,1.6905498391276672,Only partial lockdown mobility,2
+30,1.6790017897482097,Only partial lockdown mobility,2
+31,1.667450742808274,Only partial lockdown mobility,2
+32,1.6558967374770883,Only partial lockdown mobility,2
+33,1.6443398166692875,Only partial lockdown mobility,2
+34,1.6327800268986568,Only partial lockdown mobility,2
+35,1.6203506064162403,Only partial lockdown mobility,2
+36,1.6068731716310327,Only partial lockdown mobility,2
+37,1.5915753602917806,Only partial lockdown mobility,2
+38,1.576276050129584,Only partial lockdown mobility,2
+39,1.5609753827318504,Only partial lockdown mobility,2
+40,1.54567350048158,Only partial lockdown mobility,2
+41,1.5303705457803256,Only partial lockdown mobility,2
+42,1.513848617745846,Only partial lockdown mobility,2
+43,1.4908051707452363,Only partial lockdown mobility,2
+44,1.465692295088194,Only partial lockdown mobility,2
+45,1.4405839952601598,Only partial lockdown mobility,2
+46,1.4154806614149136,Only partial lockdown mobility,2
+47,1.390382669447346,Only partial lockdown mobility,2
+48,1.3652903789607929,Only partial lockdown mobility,2
+49,1.3383252537374517,Only partial lockdown mobility,2
+50,1.3417165247106977,Only partial lockdown mobility,2
+51,1.3430592330048206,Only partial lockdown mobility,2
+52,1.3443971501926248,Only partial lockdown mobility,2
+53,1.3457301438328038,Only partial lockdown mobility,2
+54,1.347058076267179,Only partial lockdown mobility,2
+55,1.3483808043127958,Only partial lockdown mobility,2
+56,1.3469180816000066,Only partial lockdown mobility,2
+57,1.345131225591503,Only partial lockdown mobility,2
+58,1.3405326772499482,Only partial lockdown mobility,2
+59,1.335931585954679,Only partial lockdown mobility,2
+60,1.3313279748217786,Only partial lockdown mobility,2
+61,1.326721867927768,Only partial lockdown mobility,2
+62,1.3221132902553412,Only partial lockdown mobility,2
+63,1.3152872263071609,Only partial lockdown mobility,2
+64,1.3175460316404042,Only partial lockdown mobility,2
+65,1.3172909282970358,Only partial lockdown mobility,2
+66,1.3170308159313455,Only partial lockdown mobility,2
+67,1.316765598412848,Only partial lockdown mobility,2
+68,1.316495177980217,Only partial lockdown mobility,2
+69,1.3162194552226385,Only partial lockdown mobility,2
+70,1.3159383290614317,Only partial lockdown mobility,2
+71,1.315651696732123,Only partial lockdown mobility,2
+72,1.3153594537666204,Only partial lockdown mobility,2
+73,1.3150614939757512,Only partial lockdown mobility,2
+74,1.314757709432123,Only partial lockdown mobility,2
+75,1.3144479904534832,Only partial lockdown mobility,2
+76,1.3141322255863288,Only partial lockdown mobility,2
+77,1.3138103015898834,Only partial lockdown mobility,2
+78,1.3134821034209252,Only partial lockdown mobility,2
+79,1.3131475142186653,Only partial lockdown mobility,2
+80,1.3128064152904928,Only partial lockdown mobility,2
+81,1.312458686098261,Only partial lockdown mobility,2
+82,1.3121042042450897,Only partial lockdown mobility,2
+83,1.3117428454627986,Only partial lockdown mobility,2
+84,1.311374483600338,Only partial lockdown mobility,2
+85,1.3109989906127018,Only partial lockdown mobility,2
+86,1.3106162365507157,Only partial lockdown mobility,2
+87,1.310226089551872,Only partial lockdown mobility,2
+88,1.309828415831564,Only partial lockdown mobility,2
+89,1.309423079676158,Only partial lockdown mobility,2
+90,1.3090099434360205,Only partial lockdown mobility,2
+91,1.308588867520311,Only partial lockdown mobility,2
+92,1.308159710392934,Only partial lockdown mobility,2
+93,1.3077223285690376,Only partial lockdown mobility,2
+94,1.3072765766134706,Only partial lockdown mobility,2
+95,1.3068223071401135,Only partial lockdown mobility,2
+96,1.306359370812722,Only partial lockdown mobility,2
+97,1.30588761634698,Only partial lockdown mobility,2
+98,1.3054068905144702,Only partial lockdown mobility,2
+99,1.3049170381478614,Only partial lockdown mobility,2
+100,1.304417902147727,Only partial lockdown mobility,2
+101,1.3039093234911552,Only partial lockdown mobility,2
+102,1.3033911412422434,Only partial lockdown mobility,2
+103,1.3028631925641525,Only partial lockdown mobility,2
+104,1.3023253127333771,Only partial lockdown mobility,2
+105,1.3017773351556463,Only partial lockdown mobility,2
+106,1.3012190913843955,Only partial lockdown mobility,2
+107,1.3006504111407349,Only partial lockdown mobility,2
+108,1.3000711223363846,Only partial lockdown mobility,2
+109,1.2994810510983374,Only partial lockdown mobility,2
+110,1.2988800217959469,Only partial lockdown mobility,2
+111,1.2982678570710091,Only partial lockdown mobility,2
+112,1.297644377869781,Only partial lockdown mobility,2
+113,1.2970094034778994,Only partial lockdown mobility,2
+114,1.296362751558143,Only partial lockdown mobility,2
+115,1.2957042381906638,Only partial lockdown mobility,2
+116,1.2950336779165366,Only partial lockdown mobility,2
+117,1.2943508837837554,Only partial lockdown mobility,2
+118,1.2936556673968478,Only partial lockdown mobility,2
+119,1.292947838969202,Only partial lockdown mobility,2
+120,1.2922272073787833,Only partial lockdown mobility,2
+121,1.2914935802273624,Only partial lockdown mobility,2
+122,1.2907467639024286,Only partial lockdown mobility,2
+123,1.2899865636436751,Only partial lockdown mobility,2
+124,1.2892127836119374,Only partial lockdown mobility,2
+125,1.2884252269624314,Only partial lockdown mobility,2
+126,1.2876236959215206,Only partial lockdown mobility,2
+127,1.2868079918671935,Only partial lockdown mobility,2
+128,1.2859779154134123,Only partial lockdown mobility,2
+129,1.2851332664983812,Only partial lockdown mobility,2
+130,1.284273844476843,Only partial lockdown mobility,2
+131,1.2833994482163804,Only partial lockdown mobility,2
+132,1.2825098761978422,Only partial lockdown mobility,2
+133,1.2816049266197698,Only partial lockdown mobility,2
+134,1.2806843975073563,Only partial lockdown mobility,2
+135,1.2797480868251865,Only partial lockdown mobility,2
+136,1.2787957925948332,Only partial lockdown mobility,2
+137,1.2778273130161677,Only partial lockdown mobility,2
+138,1.2768424465936103,Only partial lockdown mobility,2
+139,1.2758409922661893,Only partial lockdown mobility,2
+140,1.2748227495425215,Only partial lockdown mobility,2
+141,1.2737875186397891,Only partial lockdown mobility,2
+142,1.2727351006272918,Only partial lockdown mobility,2
+143,1.2716652975743128,Only partial lockdown mobility,2
+144,1.2705779127025896,Only partial lockdown mobility,2
+145,1.2694727505427523,Only partial lockdown mobility,2
+146,1.268349617095276,Only partial lockdown mobility,2
+147,1.26720831999603,Only partial lockdown mobility,2
+148,1.2660486686853525,Only partial lockdown mobility,2
+149,1.2648704745818964,Only partial lockdown mobility,2
+150,1.263673551260311,Only partial lockdown mobility,2
+151,1.262457714632949,Only partial lockdown mobility,2
+152,1.2612227831355491,Only partial lockdown mobility,2
+153,1.2599685779165852,Only partial lockdown mobility,2
+154,1.2586949230304862,Only partial lockdown mobility,2
+155,1.2574016456341588,Only partial lockdown mobility,2
+156,1.2560885761873728,Only partial lockdown mobility,2
+157,1.2547555486557065,Only partial lockdown mobility,2
+158,1.2534024007173277,Only partial lockdown mobility,2
+159,1.2520289739719763,Only partial lockdown mobility,2
+160,1.2506351141532157,Only partial lockdown mobility,2
+161,1.2492206713430205,Only partial lockdown mobility,2
+162,1.2477855001881506,Only partial lockdown mobility,2
+163,1.2463294601195,Only partial lockdown mobility,2
+164,1.2448524155722205,Only partial lockdown mobility,2
+165,1.2433542362080985,Only partial lockdown mobility,2
+166,1.2418347971389372,Only partial lockdown mobility,2
+167,1.2402939791506264,Only partial lockdown mobility,2
+168,1.238731668928275,Only partial lockdown mobility,2
+169,1.237147759281443,Only partial lockdown mobility,2
+170,1.235542149369355,Only partial lockdown mobility,2
+171,1.23391474492578,Only partial lockdown mobility,2
+172,1.2322654584834014,Only partial lockdown mobility,2
+173,1.230594209596836,Only partial lockdown mobility,2
+174,1.2289009250642953,Only partial lockdown mobility,2
+175,1.2271855391476405,Only partial lockdown mobility,2
+176,1.225447993789807,Only partial lockdown mobility,2
+177,1.223688238829992,Only partial lockdown mobility,2
+178,1.221906232215504,Only partial lockdown mobility,2
+179,1.220101940210421,Only partial lockdown mobility,2
+180,1.2182753376000164,Only partial lockdown mobility,2
+181,1.2164264078910518,Only partial lockdown mobility,2
+182,1.214555143507526,Only partial lockdown mobility,2
+183,1.2126615459806491,Only partial lockdown mobility,2
+184,1.21074562613379,Only partial lockdown mobility,2
+185,1.2088074042609882,Only partial lockdown mobility,2
+186,1.20684691029876,Only partial lockdown mobility,2
+187,1.2048641839915144,Only partial lockdown mobility,2
+188,1.2028592750489484,Only partial lockdown mobility,2
+189,1.2008322432959806,Only partial lockdown mobility,2
+190,1.1987831588141171,Only partial lockdown mobility,2
+191,1.1967121020743168,Only partial lockdown mobility,2
+192,1.1946191640607309,Only partial lockdown mobility,2
+193,1.1925044463847208,Only partial lockdown mobility,2
+194,1.190368061389134,Only partial lockdown mobility,2
+195,1.1882101322421217,Only partial lockdown mobility,2
+196,1.1860307930205027,Only partial lockdown mobility,2
+197,1.183830188781788,Only partial lockdown mobility,2
+198,1.181608475625059,Only partial lockdown mobility,2
+199,1.179365820740017,Only partial lockdown mobility,2
+200,1.1771024024442818,Only partial lockdown mobility,2
+201,1.174818410207929,Only partial lockdown mobility,2
+202,1.1725140446660056,Only partial lockdown mobility,2
+203,1.1701895176180248,Only partial lockdown mobility,2
+204,1.16784505201439,Only partial lockdown mobility,2
+205,1.1654808819298883,Only partial lockdown mobility,2
+206,1.1630972525237748,Only partial lockdown mobility,2
+207,1.160694419986136,Only partial lockdown mobility,2
+208,1.1582726514710604,Only partial lockdown mobility,2
+209,1.155832225015928,Only partial lockdown mobility,2
+210,1.153373429447178,Only partial lockdown mobility,2
+211,1.1508965642720954,Only partial lockdown mobility,2
+212,1.1484019395571454,Only partial lockdown mobility,2
+213,1.1458898757925389,Only partial lockdown mobility,2
+214,1.1433607037433309,Only partial lockdown mobility,2
+215,1.1408147642868176,Only partial lockdown mobility,2
+216,1.138252408236876,Only partial lockdown mobility,2
+217,1.1356739961549407,Only partial lockdown mobility,2
+218,1.1330798981480514,Only partial lockdown mobility,2
+219,1.1304704936542271,Only partial lockdown mobility,2
+220,1.1278461712153445,Only partial lockdown mobility,2
+221,1.1252073282377364,Only partial lockdown mobility,2
+222,1.1225543707411774,Only partial lockdown mobility,2
+223,1.1198877130959803,Only partial lockdown mobility,2
+224,1.1172077777493092,Only partial lockdown mobility,2
+225,1.1145149949404778,Only partial lockdown mobility,2
+226,1.1118098024062468,Only partial lockdown mobility,2
+227,1.109092645075956,Only partial lockdown mobility,2
+228,1.1063639747574796,Only partial lockdown mobility,2
+229,1.103624249814248,Only partial lockdown mobility,2
+230,1.1008739348338288,Only partial lockdown mobility,2
+231,1.0981135002888776,Only partial lockdown mobility,2
+232,1.0953434221906473,Only partial lockdown mobility,2
+233,1.0925641817357854,Only partial lockdown mobility,2
+234,1.089776264947227,Only partial lockdown mobility,2
+235,1.0869801623093425,Only partial lockdown mobility,2
+236,1.0841763683982903,Only partial lockdown mobility,2
+237,1.0813653815081259,Only partial lockdown mobility,2
+238,1.0785477032729915,Only partial lockdown mobility,2
+239,1.0757238382866992,Only partial lockdown mobility,2
+240,1.0728942937194774,Only partial lockdown mobility,2
+241,1.070059578933148,Only partial lockdown mobility,2
+242,1.0672202050953217,Only partial lockdown mobility,2
+243,1.0643766847926426,Only partial lockdown mobility,2
+244,1.061529531644626,Only partial lockdown mobility,2
+245,1.0586792599179686,Only partial lockdown mobility,2
+246,1.0558263841423026,Only partial lockdown mobility,2
+247,1.0529714187279269,Only partial lockdown mobility,2
+248,1.05011487758603,Only partial lockdown mobility,2
+249,1.047257273752136,Only partial lockdown mobility,2
+250,1.044399119013339,Only partial lockdown mobility,2
+251,1.041540923539605,Only partial lockdown mobility,2
+252,1.0386831955201077,Only partial lockdown mobility,2
+253,1.0358264408047628,Only partial lockdown mobility,2
+254,1.0329711625516833,Only partial lockdown mobility,2
+255,1.0301178608809591,Only partial lockdown mobility,2
+256,1.0272670325352566,Only partial lockdown mobility,2
+257,1.024419170547507,Only partial lockdown mobility,2
+258,1.0215747639166108,Only partial lockdown mobility,2
+259,1.01873429729071,Only partial lockdown mobility,2
+260,1.015898250659349,Only partial lockdown mobility,2
+261,1.0130670990541513,Only partial lockdown mobility,2
+262,1.010241312258826,Only partial lockdown mobility,2
+263,1.0074213545282222,Only partial lockdown mobility,2
+264,1.0046076843176055,Only partial lockdown mobility,2
+265,1.0018007540213962,Only partial lockdown mobility,2
+266,0.9990010097223222,Only partial lockdown mobility,2
+267,0.9962088909509542,Only partial lockdown mobility,2
+268,0.9934248304556456,Only partial lockdown mobility,2
+269,0.9906492539833276,Only partial lockdown mobility,2
+270,0.9878825800710026,Only partial lockdown mobility,2
+271,0.9851252198482504,Only partial lockdown mobility,2
+272,0.982377576850642,Only partial lockdown mobility,2
+273,0.9796400468442884,Only partial lockdown mobility,2
+274,0.9769130176614969,Only partial lockdown mobility,2
+275,0.9741968690473616,Only partial lockdown mobility,2
+276,0.9714919725176184,Only partial lockdown mobility,2
+277,0.968798691227425,Only partial lockdown mobility,2
+278,0.9661173798511182,Only partial lockdown mobility,2
+279,0.9634483844730144,Only partial lockdown mobility,2
+280,0.9607920424888264,Only partial lockdown mobility,2
+281,0.9581486825179664,Only partial lockdown mobility,2
+282,0.9555186243262676,Only partial lockdown mobility,2
+283,0.9529021787591856,Only partial lockdown mobility,2
+284,0.9502996476853556,Only partial lockdown mobility,2
+285,0.947711323950122,Only partial lockdown mobility,2
+286,0.9451374913388844,Only partial lockdown mobility,2
+287,0.9425784245503184,Only partial lockdown mobility,2
+288,0.9400343891790132,Only partial lockdown mobility,2
+289,0.937505641707267,Only partial lockdown mobility,2
+290,0.9349924295060408,Only partial lockdown mobility,2
+291,0.9324949908444474,Only partial lockdown mobility,2
+292,0.930013554908024,Only partial lockdown mobility,2
+293,0.9275483418251464,Only partial lockdown mobility,2
+294,0.9250995627012836,Only partial lockdown mobility,2
+295,0.9226674196612524,Only partial lockdown mobility,2
+296,0.9202521058986652,Only partial lockdown mobility,2
+297,0.9178538057325708,Only partial lockdown mobility,2
+298,0.9154726946711176,Only partial lockdown mobility,2
+299,0.913108939481649,Only partial lockdown mobility,2
+300,0.9107626982671276,Only partial lockdown mobility,2
+301,0.9084341205486108,Only partial lockdown mobility,2
+302,0.9061233473532836,Only partial lockdown mobility,2
+303,0.9038305113082123,Only partial lockdown mobility,2
+304,0.9015557367389648,Only partial lockdown mobility,2
+305,0.8992991397732385,Only partial lockdown mobility,2
+306,0.8970608284489452,Only partial lockdown mobility,2
+307,0.894840902826709,Only partial lockdown mobility,2
+308,0.8926394551062775,Only partial lockdown mobility,2
+309,0.8904565697467005,Only partial lockdown mobility,2
+310,0.8882923235900311,Only partial lockdown mobility,2
+311,0.8861467859881526,Only partial lockdown mobility,2
+312,0.884020018932489,Only partial lockdown mobility,2
+313,0.8819120771866563,Only partial lockdown mobility,2
+314,0.8798230084212733,Only partial lockdown mobility,2
+315,0.8777528533510327,Only partial lockdown mobility,2
+316,0.8757016458738973,Only partial lockdown mobility,2
+317,0.8736694132117491,Only partial lockdown mobility,2
+318,0.8716561760527767,Only partial lockdown mobility,2
+319,0.8696619486950303,Only partial lockdown mobility,2
+320,0.8676867391909535,Only partial lockdown mobility,2
+321,0.8657305494930387,Only partial lockdown mobility,2
+322,0.8637933755999037,Only partial lockdown mobility,2
+323,0.8618752077028946,Only partial lockdown mobility,2
+324,0.859976030333106,Only partial lockdown mobility,2
+325,0.858095822508397,Only partial lockdown mobility,2
+326,0.8562345578803671,Only partial lockdown mobility,2
+327,0.8543922048810935,Only partial lockdown mobility,2
+328,0.8525687268696623,Only partial lockdown mobility,2
+329,0.8507640822778848,Only partial lockdown mobility,2
+330,0.8489782247557022,Only partial lockdown mobility,2
+331,0.8472111033154239,Only partial lockdown mobility,2
+332,0.8454626624753913,Only partial lockdown mobility,2
+333,0.8437328424023854,Only partial lockdown mobility,2
+334,0.842021579052905,Only partial lockdown mobility,2
+335,0.8403288043133007,Only partial lockdown mobility,2
+336,0.8386544461383553,Only partial lockdown mobility,2
+337,0.8369984286885307,Only partial lockdown mobility,2
+338,0.8353606724657469,Only partial lockdown mobility,2
+339,0.8337410944472895,Only partial lockdown mobility,2
+340,0.8321396082182597,Only partial lockdown mobility,2
+341,0.8305561241020494,Only partial lockdown mobility,2
+342,0.828990549289163,Only partial lockdown mobility,2
+343,0.8274427879639138,Only partial lockdown mobility,2
+344,0.8259127414294689,Only partial lockdown mobility,2
+345,0.8244003082305331,Only partial lockdown mobility,2
+346,0.8229053842742284,Only partial lockdown mobility,2
+347,0.8214278629488524,Only partial lockdown mobility,2
+348,0.8199676352404384,Only partial lockdown mobility,2
+349,0.818524589847142,Only partial lockdown mobility,2
+350,0.8170986132915747,Only partial lockdown mobility,2
+351,0.8156895900307988,Only partial lockdown mobility,2
+352,0.8142974025641768,Only partial lockdown mobility,2
+353,0.8129219315388854,Only partial lockdown mobility,2
+354,0.8115630558533133,Only partial lockdown mobility,2
+355,0.8102206527581053,Only partial lockdown mobility,2
+356,0.8088945979549135,Only partial lockdown mobility,2
+357,0.8075847656929945,Only partial lockdown mobility,2
+358,0.8062910288633539,Only partial lockdown mobility,2
+359,0.8050132590908587,Only partial lockdown mobility,2
+360,0.8037513268239205,Only partial lockdown mobility,2
+361,0.8025051014219795,Only partial lockdown mobility,2
+362,0.8012744512406732,Only partial lockdown mobility,2
+363,0.8000592437150281,Only partial lockdown mobility,2
+364,0.7988593454400925,Only partial lockdown mobility,2
+365,0.7976746222496275,Only partial lockdown mobility,2
+366,0.796504939292527,Only partial lockdown mobility,2
+367,0.7953501611070894,Only partial lockdown mobility,2
+368,0.7942101516931507,Only partial lockdown mobility,2
+369,0.7930847745821851,Only partial lockdown mobility,2
+370,0.7919738929051233,Only partial lockdown mobility,2
+371,0.7908773694584093,Only partial lockdown mobility,2
+372,0.7897950667676672,Only partial lockdown mobility,2
+373,0.7887268471497554,Only partial lockdown mobility,2
+374,0.787672572772437,Only partial lockdown mobility,2
+375,0.7866321057124966,Only partial lockdown mobility,2
+376,0.785605308011653,Only partial lockdown mobility,2
+377,0.7845920417306994,Only partial lockdown mobility,2
+378,0.7835921690017678,Only partial lockdown mobility,2
+379,0.7826055520788847,Only partial lockdown mobility,2
+380,0.781632053386503,Only partial lockdown mobility,2
+381,0.7806715355665617,Only partial lockdown mobility,2
+382,0.7797238615235682,Only partial lockdown mobility,2
+383,0.7787888944681575,Only partial lockdown mobility,2
+384,0.7778664979590451,Only partial lockdown mobility,2
+385,0.776956535943047,Only partial lockdown mobility,2
+386,0.7760588727939952,Only partial lockdown mobility,2
+387,0.7751733733496706,Only partial lockdown mobility,2
+388,0.7742999029474013,Only partial lockdown mobility,2
+389,0.7734383274583545,Only partial lockdown mobility,2
+390,0.7725885133198586,Only partial lockdown mobility,2
+391,0.7717503275670462,Only partial lockdown mobility,2
+0,1.9146450333569107,Only extended lockdown mobility,5
+1,1.914588262658281,Only extended lockdown mobility,5
+2,1.9145284862291967,Only extended lockdown mobility,5
+3,1.9144655452220225,Only extended lockdown mobility,5
+4,1.914399272428603,Only extended lockdown mobility,5
+5,1.9143294918441096,Only extended lockdown mobility,5
+6,1.9142560182082704,Only extended lockdown mobility,5
+7,1.9141786565234908,Only extended lockdown mobility,5
+8,1.9140972015478577,Only extended lockdown mobility,5
+9,1.9140114372628192,Only extended lockdown mobility,5
+10,1.9139211363139572,Only extended lockdown mobility,5
+11,1.9138260594225704,Only extended lockdown mobility,5
+12,1.9137259547683896,Only extended lockdown mobility,5
+13,1.9136205573408016,Only extended lockdown mobility,5
+14,1.9135095882572717,Only extended lockdown mobility,5
+15,1.9133927540478888,Only extended lockdown mobility,5
+16,1.9132697459041657,Only extended lockdown mobility,5
+17,1.9131402388901424,Only extended lockdown mobility,5
+18,1.9130038911145448,Only extended lockdown mobility,5
+19,1.9128603428617323,Only extended lockdown mobility,5
+20,1.912709215680781,Only extended lockdown mobility,5
+21,1.9125501114281829,Only extended lockdown mobility,5
+22,1.912382611265537,Only extended lockdown mobility,5
+23,1.9122062746075532,Only extended lockdown mobility,5
+24,1.912020638019435,Only extended lockdown mobility,5
+25,1.9118252140614056,Only extended lockdown mobility,5
+26,1.911619490077584,Only extended lockdown mobility,5
+27,1.9114029269278332,Only extended lockdown mobility,5
+28,1.9111749576593984,Only extended lockdown mobility,5
+29,1.910934986116403,Only extended lockdown mobility,5
+30,1.9106823854844417,Only extended lockdown mobility,5
+31,1.910416496768339,Only extended lockdown mobility,5
+32,1.9101366271999067,Only extended lockdown mobility,5
+33,1.909842048573608,Only extended lockdown mobility,5
+34,1.909531995507356,Only extended lockdown mobility,5
+35,1.90920566362607,Only extended lockdown mobility,5
+36,1.908862207665317,Only extended lockdown mobility,5
+37,1.9085007394925104,Only extended lockdown mobility,5
+38,1.9081203260432915,Only extended lockdown mobility,5
+39,1.9077199871706625,Only extended lockdown mobility,5
+40,1.907298693404136,Only extended lockdown mobility,5
+41,1.9068553636176944,Only extended lockdown mobility,5
+42,1.9063888626030077,Only extended lockdown mobility,5
+43,1.8914225006373429,Only extended lockdown mobility,5
+44,1.87644322227841,Only extended lockdown mobility,5
+45,1.8614510748918975,Only extended lockdown mobility,5
+46,1.846446125672824,Only extended lockdown mobility,5
+47,1.8314284612276777,Only extended lockdown mobility,5
+48,1.816398187099008,Only extended lockdown mobility,5
+49,1.8005928492648835,Only extended lockdown mobility,5
+50,1.7996673216725492,Only extended lockdown mobility,5
+51,1.796881838757202,Only extended lockdown mobility,5
+52,1.794069880678345,Only extended lockdown mobility,5
+53,1.791230371223222,Only extended lockdown mobility,5
+54,1.7883621857818248,Only extended lockdown mobility,5
+55,1.7854641483657927,Only extended lockdown mobility,5
+56,1.7808682172853196,Only extended lockdown mobility,5
+57,1.7800738600638626,Only extended lockdown mobility,5
+58,1.7775457026310102,Only extended lockdown mobility,5
+59,1.774981582094897,Only extended lockdown mobility,5
+60,1.7723800617997063,Only extended lockdown mobility,5
+61,1.769739648013985,Only extended lockdown mobility,5
+62,1.7670587874409105,Only extended lockdown mobility,5
+63,1.7623790136639643,Only extended lockdown mobility,5
+64,1.7517029070244734,Only extended lockdown mobility,5
+65,1.738898607428196,Only extended lockdown mobility,5
+66,1.7260709486258747,Only extended lockdown mobility,5
+67,1.7132202698371712,Only extended lockdown mobility,5
+68,1.7003469540443497,Only extended lockdown mobility,5
+69,1.6874514270602785,Only extended lockdown mobility,5
+70,1.6731355716916902,Only extended lockdown mobility,5
+71,1.6625522565742863,Only extended lockdown mobility,5
+72,1.6500133378549322,Only extended lockdown mobility,5
+73,1.6374524413039808,Only extended lockdown mobility,5
+74,1.6248701443087477,Only extended lockdown mobility,5
+75,1.6122670624262558,Only extended lockdown mobility,5
+76,1.599643847748296,Only extended lockdown mobility,5
+77,1.5861537529302911,Only extended lockdown mobility,5
+78,1.571614250853678,Only extended lockdown mobility,5
+79,1.5552856882543356,Only extended lockdown mobility,5
+80,1.5389510956671006,Only extended lockdown mobility,5
+81,1.5226119387456607,Only extended lockdown mobility,5
+82,1.5062696805515707,Only extended lockdown mobility,5
+83,1.4899257743245506,Only extended lockdown mobility,5
+84,1.4723778010639397,Only extended lockdown mobility,5
+85,1.4485623026590115,Only extended lockdown mobility,5
+86,1.422746845097815,Only extended lockdown mobility,5
+87,1.3969735756255408,Only extended lockdown mobility,5
+88,1.3712454818544408,Only extended lockdown mobility,5
+89,1.3455653980142286,Only extended lockdown mobility,5
+90,1.3199359901734724,Only extended lockdown mobility,5
+91,1.2925433678410216,Only extended lockdown mobility,5
+92,1.244625776774738,Only extended lockdown mobility,5
+93,1.194876708135841,Only extended lockdown mobility,5
+94,1.1452748728178508,Only extended lockdown mobility,5
+95,1.0958193726012773,Only extended lockdown mobility,5
+96,1.0465081824024336,Only extended lockdown mobility,5
+97,0.9973382059616374,Only extended lockdown mobility,5
+98,0.947030677439897,Only extended lockdown mobility,5
+99,0.9341513376864676,Only extended lockdown mobility,5
+100,0.9196478656112964,Only extended lockdown mobility,5
+101,0.90518326494639,Only extended lockdown mobility,5
+102,0.8907572154701263,Only extended lockdown mobility,5
+103,0.8763693266076222,Only extended lockdown mobility,5
+104,0.8620191410402895,Only extended lockdown mobility,5
+105,0.8462893663447574,Only extended lockdown mobility,5
+106,0.8344350031682326,Only extended lockdown mobility,5
+107,0.8337935093446884,Only extended lockdown mobility,5
+108,0.8331574428409374,Only extended lockdown mobility,5
+109,0.8325267674614306,Only extended lockdown mobility,5
+110,0.8319014471484414,Only extended lockdown mobility,5
+111,0.8312814459821937,Only extended lockdown mobility,5
+112,0.8306667281806209,Only extended lockdown mobility,5
+113,0.830057258099417,Only extended lockdown mobility,5
+114,0.8294530002318606,Only extended lockdown mobility,5
+115,0.8288539192088196,Only extended lockdown mobility,5
+116,0.8282599797987364,Only extended lockdown mobility,5
+117,0.8276711469075143,Only extended lockdown mobility,5
+118,0.8270873855785599,Only extended lockdown mobility,5
+119,0.8265086609927289,Only extended lockdown mobility,5
+120,0.8259349384683782,Only extended lockdown mobility,5
+121,0.8253661834613295,Only extended lockdown mobility,5
+122,0.8248023615648812,Only extended lockdown mobility,5
+123,0.8242434385098925,Only extended lockdown mobility,5
+124,0.8236893801647442,Only extended lockdown mobility,5
+125,0.823140152535483,Only extended lockdown mobility,5
+126,0.8225957217657737,Only extended lockdown mobility,5
+127,0.8220560541370874,Only extended lockdown mobility,5
+128,0.8215211160686263,Only extended lockdown mobility,5
+129,0.8209908741175549,Only extended lockdown mobility,5
+130,0.8204652949790299,Only extended lockdown mobility,5
+131,0.8199443454862628,Only extended lockdown mobility,5
+132,0.8194279926107702,Only extended lockdown mobility,5
+133,0.8189162034623084,Only extended lockdown mobility,5
+134,0.8184089452891526,Only extended lockdown mobility,5
+135,0.8179061854781312,Only extended lockdown mobility,5
+136,0.8174078915548576,Only extended lockdown mobility,5
+137,0.8169140311837875,Only extended lockdown mobility,5
+138,0.8164245721684322,Only extended lockdown mobility,5
+139,0.815939482451554,Only extended lockdown mobility,5
+140,0.8154587301152275,Only extended lockdown mobility,5
+141,0.8149822833810749,Only extended lockdown mobility,5
+142,0.8145101106104873,Only extended lockdown mobility,5
+143,0.8140421803047062,Only extended lockdown mobility,5
+144,0.8135784611051328,Only extended lockdown mobility,5
+145,0.8131189217934048,Only extended lockdown mobility,5
+146,0.8126635312916491,Only extended lockdown mobility,5
+147,0.8122122586626986,Only extended lockdown mobility,5
+148,0.8117650731102347,Only extended lockdown mobility,5
+149,0.8113219439790277,Only extended lockdown mobility,5
+150,0.8108828407551856,Only extended lockdown mobility,5
+151,0.8104477330662571,Only extended lockdown mobility,5
+152,0.8100165906815271,Only extended lockdown mobility,5
+153,0.809589383512172,Only extended lockdown mobility,5
+154,0.8091660816115812,Only extended lockdown mobility,5
+155,0.8087466551753839,Only extended lockdown mobility,5
+156,0.8083310745418192,Only extended lockdown mobility,5
+157,0.8079193101918797,Only extended lockdown mobility,5
+158,0.8075113327495423,Only extended lockdown mobility,5
+159,0.8071071129819458,Only extended lockdown mobility,5
+160,0.8067066217995958,Only extended lockdown mobility,5
+161,0.8063098302566709,Only extended lockdown mobility,5
+162,0.8059167095510511,Only extended lockdown mobility,5
+163,0.8055272310246782,Only extended lockdown mobility,5
+164,0.8051413661636373,Only extended lockdown mobility,5
+165,0.8047590865984647,Only extended lockdown mobility,5
+166,0.8043803641042095,Only extended lockdown mobility,5
+167,0.8040051706006904,Only extended lockdown mobility,5
+168,0.8036334781526905,Only extended lockdown mobility,5
+169,0.8032652589700845,Only extended lockdown mobility,5
+170,0.802900485408059,Only extended lockdown mobility,5
+171,0.802539129967224,Only extended lockdown mobility,5
+172,0.802181165293859,Only extended lockdown mobility,5
+173,0.8018265641799424,Only extended lockdown mobility,5
+174,0.8014752995634077,Only extended lockdown mobility,5
+175,0.8011273445282028,Only extended lockdown mobility,5
+176,0.8007826723045226,Only extended lockdown mobility,5
+177,0.8004412562688576,Only extended lockdown mobility,5
+178,0.8001030699441214,Only extended lockdown mobility,5
+179,0.7997680869997877,Only extended lockdown mobility,5
+180,0.7994362812519585,Only extended lockdown mobility,5
+181,0.7991076266635366,Only extended lockdown mobility,5
+182,0.7987820973442471,Only extended lockdown mobility,5
+183,0.7984596675506938,Only extended lockdown mobility,5
+184,0.7981403116865226,Only extended lockdown mobility,5
+185,0.7978240043023863,Only extended lockdown mobility,5
+186,0.7975107200960778,Only extended lockdown mobility,5
+187,0.7972004339125057,Only extended lockdown mobility,5
+188,0.7968931207437899,Only extended lockdown mobility,5
+189,0.7965887557292634,Only extended lockdown mobility,5
+190,0.7962873141554339,Only extended lockdown mobility,5
+191,0.7959887714560816,Only extended lockdown mobility,5
+192,0.7956931032122109,Only extended lockdown mobility,5
+193,0.7954002851520305,Only extended lockdown mobility,5
+194,0.7951102931508701,Only extended lockdown mobility,5
+195,0.7948231032313033,Only extended lockdown mobility,5
+196,0.7945386915629845,Only extended lockdown mobility,5
+197,0.7942570344625614,Only extended lockdown mobility,5
+198,0.7939781083937071,Only extended lockdown mobility,5
+199,0.7937018899670143,Only extended lockdown mobility,5
+200,0.7934283559398351,Only extended lockdown mobility,5
+201,0.7931574832162928,Only extended lockdown mobility,5
+202,0.7928892488471031,Only extended lockdown mobility,5
+203,0.7926236300294275,Only extended lockdown mobility,5
+204,0.7923606041068769,Only extended lockdown mobility,5
+205,0.7921001485691781,Only extended lockdown mobility,5
+206,0.7918422410521911,Only extended lockdown mobility,5
+207,0.7915868593376251,Only extended lockdown mobility,5
+208,0.7913339813529667,Only extended lockdown mobility,5
+209,0.7910835851711782,Only extended lockdown mobility,5
+210,0.7908356490106208,Only extended lockdown mobility,5
+211,0.7905901512347591,Only extended lockdown mobility,5
+212,0.7903470703519909,Only extended lockdown mobility,5
+213,0.790106385015403,Only extended lockdown mobility,5
+214,0.789868074022513,Only extended lockdown mobility,5
+215,0.7896321163150511,Only extended lockdown mobility,5
+216,0.7893984909787399,Only extended lockdown mobility,5
+217,0.7891671772429001,Only extended lockdown mobility,5
+218,0.7889381544802713,Only extended lockdown mobility,5
+219,0.7887114022066675,Only extended lockdown mobility,5
+220,0.7884869000807294,Only extended lockdown mobility,5
+221,0.78826462790357,Only extended lockdown mobility,5
+222,0.7880445656184685,Only extended lockdown mobility,5
+223,0.7878266933105063,Only extended lockdown mobility,5
+224,0.7876109912062682,Only extended lockdown mobility,5
+225,0.7873974396734966,Only extended lockdown mobility,5
+226,0.7871860192206516,Only extended lockdown mobility,5
+227,0.7869767104966545,Only extended lockdown mobility,5
+228,0.7867694942903677,Only extended lockdown mobility,5
+229,0.7865643515303805,Only extended lockdown mobility,5
+230,0.7863612632844416,Only extended lockdown mobility,5
+231,0.7861602107590998,Only extended lockdown mobility,5
+232,0.7859611752994056,Only extended lockdown mobility,5
+233,0.7857641383882557,Only extended lockdown mobility,5
+234,0.7855690816461971,Only extended lockdown mobility,5
+235,0.785375986830831,Only extended lockdown mobility,5
+236,0.7851848358363782,Only extended lockdown mobility,5
+237,0.7849956106932658,Only extended lockdown mobility,5
+238,0.7848082935676479,Only extended lockdown mobility,5
+239,0.7846228667608488,Only extended lockdown mobility,5
+240,0.7844393127090519,Only extended lockdown mobility,5
+241,0.7842576139826101,Only extended lockdown mobility,5
+242,0.7840777532856666,Only extended lockdown mobility,5
+243,0.7838997134556097,Only extended lockdown mobility,5
+244,0.7837234774625578,Only extended lockdown mobility,5
+245,0.7835490284088584,Only extended lockdown mobility,5
+246,0.7833763495285124,Only extended lockdown mobility,5
+247,0.7832054241866958,Only extended lockdown mobility,5
+248,0.7830362358791846,Only extended lockdown mobility,5
+249,0.7828687682318134,Only extended lockdown mobility,5
+250,0.7827030049998885,Only extended lockdown mobility,5
+251,0.7825389300676843,Only extended lockdown mobility,5
+252,0.7823765274478375,Only extended lockdown mobility,5
+253,0.7822157812807797,Only extended lockdown mobility,5
+254,0.7820566758341703,Only extended lockdown mobility,5
+255,0.7818991955022585,Only extended lockdown mobility,5
+256,0.7817433248054166,Only extended lockdown mobility,5
+257,0.7815890483893739,Only extended lockdown mobility,5
+258,0.7814363510247825,Only extended lockdown mobility,5
+259,0.781285217606478,Only extended lockdown mobility,5
+260,0.7811356331529677,Only extended lockdown mobility,5
+261,0.7809875828057423,Only extended lockdown mobility,5
+262,0.7808410518287368,Only extended lockdown mobility,5
+263,0.7806960256076013,Only extended lockdown mobility,5
+264,0.7805524896491749,Only extended lockdown mobility,5
+265,0.7804104295807699,Only extended lockdown mobility,5
+266,0.7802698311496435,Only extended lockdown mobility,5
+267,0.780130680222254,Only extended lockdown mobility,5
+268,0.7799929627836107,Only extended lockdown mobility,5
+269,0.7798566649367893,Only extended lockdown mobility,5
+270,0.7797217729020671,Only extended lockdown mobility,5
+271,0.779588273016419,Only extended lockdown mobility,5
+272,0.7794561517327749,Only extended lockdown mobility,5
+273,0.7793253956194893,Only extended lockdown mobility,5
+274,0.7791959913595234,Only extended lockdown mobility,5
+275,0.7790679257498359,Only extended lockdown mobility,5
+276,0.7789411857008306,Only extended lockdown mobility,5
+277,0.7788157582354892,Only extended lockdown mobility,5
+278,0.7786916304888706,Only extended lockdown mobility,5
+279,0.778568789707354,Only extended lockdown mobility,5
+280,0.778447223248005,Only extended lockdown mobility,5
+281,0.7783269185778621,Only extended lockdown mobility,5
+282,0.7782078632733354,Only extended lockdown mobility,5
+283,0.7780900450193422,Only extended lockdown mobility,5
+284,0.7779734516089462,Only extended lockdown mobility,5
+285,0.7778580709423436,Only extended lockdown mobility,5
+286,0.7777438910264346,Only extended lockdown mobility,5
+287,0.7776308999739759,Only extended lockdown mobility,5
+288,0.7775190860029728,Only extended lockdown mobility,5
+289,0.7774084374359961,Only extended lockdown mobility,5
+290,0.7772989426994958,Only extended lockdown mobility,5
+291,0.7771905903231097,Only extended lockdown mobility,5
+292,0.7770833689389047,Only extended lockdown mobility,5
+293,0.7769772672808704,Only extended lockdown mobility,5
+294,0.7768722741840726,Only extended lockdown mobility,5
+295,0.7767683785840153,Only extended lockdown mobility,5
+296,0.7766655695160256,Only extended lockdown mobility,5
+297,0.7765638361144275,Only extended lockdown mobility,5
+298,0.7764631676120101,Only extended lockdown mobility,5
+299,0.7763635533392127,Only extended lockdown mobility,5
+300,0.7762649827235475,Only extended lockdown mobility,5
+301,0.7761674452888907,Only extended lockdown mobility,5
+302,0.7760709306546955,Only extended lockdown mobility,5
+303,0.7759754285355072,Only extended lockdown mobility,5
+304,0.7758809287401052,Only extended lockdown mobility,5
+305,0.7757874211709286,Only extended lockdown mobility,5
+306,0.7756948958232993,Only extended lockdown mobility,5
+307,0.7756033427849357,Only extended lockdown mobility,5
+308,0.7755127522350208,Only extended lockdown mobility,5
+309,0.7754231144437387,Only extended lockdown mobility,5
+310,0.7753344197715047,Only extended lockdown mobility,5
+311,0.7752466586683171,Only extended lockdown mobility,5
+312,0.7751598216730319,Only extended lockdown mobility,5
+313,0.7750738994128529,Only extended lockdown mobility,5
+314,0.7749888826024506,Only extended lockdown mobility,5
+315,0.774904762043474,Only extended lockdown mobility,5
+316,0.7748215286238013,Only extended lockdown mobility,5
+317,0.774739173316897,Only extended lockdown mobility,5
+318,0.7746576871811631,Only extended lockdown mobility,5
+319,0.7745770613592713,Only extended lockdown mobility,5
+320,0.7744972870775065,Only extended lockdown mobility,5
+321,0.7744183556451177,Only extended lockdown mobility,5
+322,0.774340258453716,Only extended lockdown mobility,5
+323,0.7742629869765036,Only extended lockdown mobility,5
+324,0.7741865327677909,Only extended lockdown mobility,5
+325,0.77411088746219,Only extended lockdown mobility,5
+326,0.7740360427741603,Only extended lockdown mobility,5
+327,0.773961990497149,Only extended lockdown mobility,5
+328,0.7738887225031543,Only extended lockdown mobility,5
+329,0.7738162307419505,Only extended lockdown mobility,5
+330,0.7737445072405892,Only extended lockdown mobility,5
+331,0.7736735441026418,Only extended lockdown mobility,5
+332,0.7736033335076558,Only extended lockdown mobility,5
+333,0.7735338677104997,Only extended lockdown mobility,5
+334,0.7734651390407848,Only extended lockdown mobility,5
+335,0.7733971399022032,Only extended lockdown mobility,5
+336,0.7733298627719024,Only extended lockdown mobility,5
+337,0.7732633001999293,Only extended lockdown mobility,5
+338,0.7731974448086434,Only extended lockdown mobility,5
+339,0.7731322892919829,Only extended lockdown mobility,5
+340,0.7730678264149752,Only extended lockdown mobility,5
+341,0.77300404901316,Only extended lockdown mobility,5
+342,0.7729409499918719,Only extended lockdown mobility,5
+343,0.7728785223257644,Only extended lockdown mobility,5
+344,0.7728167590581526,Only extended lockdown mobility,5
+345,0.7727556533005029,Only extended lockdown mobility,5
+346,0.7726951982317307,Only extended lockdown mobility,5
+347,0.7726353870977213,Only extended lockdown mobility,5
+348,0.7725762132107151,Only extended lockdown mobility,5
+349,0.7725176699487616,Only extended lockdown mobility,5
+350,0.7724597507551108,Only extended lockdown mobility,5
+351,0.7724024491376883,Only extended lockdown mobility,5
+352,0.7723457586685002,Only extended lockdown mobility,5
+353,0.7722896729830176,Only extended lockdown mobility,5
+354,0.7722341857798181,Only extended lockdown mobility,5
+355,0.7721792908197868,Only extended lockdown mobility,5
+356,0.7721249819257222,Only extended lockdown mobility,5
+357,0.7720712529817374,Only extended lockdown mobility,5
+358,0.7720180979327875,Only extended lockdown mobility,5
+359,0.7719655107839756,Only extended lockdown mobility,5
+360,0.771913485600144,Only extended lockdown mobility,5
+361,0.7718620165053879,Only extended lockdown mobility,5
+362,0.7718110976823053,Only extended lockdown mobility,5
+363,0.7717607233717492,Only extended lockdown mobility,5
+364,0.7717108878720832,Only extended lockdown mobility,5
+365,0.7716615855387499,Only extended lockdown mobility,5
+366,0.7716128107838223,Only extended lockdown mobility,5
+367,0.771564558075383,Only extended lockdown mobility,5
+368,0.7715168219370153,Only extended lockdown mobility,5
+369,0.7714695969474241,Only extended lockdown mobility,5
+370,0.7714228777397816,Only extended lockdown mobility,5
+371,0.7713766590013243,Only extended lockdown mobility,5
+372,0.7713309354728392,Only extended lockdown mobility,5
+373,0.7712857019481552,Only extended lockdown mobility,5
+374,0.7712409532736554,Only extended lockdown mobility,5
+375,0.7711966843478291,Only extended lockdown mobility,5
+376,0.7711528901207594,Only extended lockdown mobility,5
+377,0.7711095655936121,Only extended lockdown mobility,5
+378,0.7710667058182413,Only extended lockdown mobility,5
+379,0.7710243058966559,Only extended lockdown mobility,5
+380,0.7709823609806168,Only extended lockdown mobility,5
+381,0.7709408662710783,Only extended lockdown mobility,5
+382,0.7708998170178248,Only extended lockdown mobility,5
+383,0.7708592085189516,Only extended lockdown mobility,5
+384,0.7708190361204059,Only extended lockdown mobility,5
+385,0.7707792952156157,Only extended lockdown mobility,5
+386,0.7707399812449792,Only extended lockdown mobility,5
+387,0.7707010896953771,Only extended lockdown mobility,5
+388,0.7706626160998672,Only extended lockdown mobility,5
+389,0.770624556037115,Only extended lockdown mobility,5
+390,0.7705869051310252,Only extended lockdown mobility,5
+391,0.7705496590503466,Only extended lockdown mobility,5
+0,1.9146450333569107,Extended lockdown mobility at the partial lockdown,4
+1,1.9000415274285145,Extended lockdown mobility at the partial lockdown,4
+2,1.885436513519117,Extended lockdown mobility at the partial lockdown,4
+3,1.870829996477657,Extended lockdown mobility at the partial lockdown,4
+4,1.8562219834062883,Extended lockdown mobility at the partial lockdown,4
+5,1.8416124835899508,Extended lockdown mobility at the partial lockdown,4
+6,1.8270015084173972,Extended lockdown mobility at the partial lockdown,4
+7,1.811621561013524,Extended lockdown mobility at the partial lockdown,4
+8,1.8112331556382049,Extended lockdown mobility at the partial lockdown,4
+9,1.8089947907212551,Extended lockdown mobility at the partial lockdown,4
+10,1.8067533034292376,Extended lockdown mobility at the partial lockdown,4
+11,1.8045085613117064,Extended lockdown mobility at the partial lockdown,4
+12,1.8022604254111936,Extended lockdown mobility at the partial lockdown,4
+13,1.8000087498252948,Extended lockdown mobility at the partial lockdown,4
+14,1.7960726080526872,Extended lockdown mobility at the partial lockdown,4
+15,1.7960045584013955,Extended lockdown mobility at the partial lockdown,4
+16,1.7942190055207266,Extended lockdown mobility at the partial lockdown,4
+17,1.7924290793235562,Extended lockdown mobility at the partial lockdown,4
+18,1.790634590345189,Extended lockdown mobility at the partial lockdown,4
+19,1.788835340304612,Extended lockdown mobility at the partial lockdown,4
+20,1.7870311216128567,Extended lockdown mobility at the partial lockdown,4
+21,1.7832449403139017,Extended lockdown mobility at the partial lockdown,4
+22,1.7734058317810288,Extended lockdown mobility at the partial lockdown,4
+23,1.7614372636530615,Extended lockdown mobility at the partial lockdown,4
+24,1.7494658058860912,Extended lockdown mobility at the partial lockdown,4
+25,1.7374914842451743,Extended lockdown mobility at the partial lockdown,4
+26,1.7255143289716652,Extended lockdown mobility at the partial lockdown,4
+27,1.713534374679741,Extended lockdown mobility at the partial lockdown,4
+28,1.7001270332071128,Extended lockdown mobility at the partial lockdown,4
+29,1.6905498391276672,Extended lockdown mobility at the partial lockdown,4
+30,1.6790017897482097,Extended lockdown mobility at the partial lockdown,4
+31,1.667450742808274,Extended lockdown mobility at the partial lockdown,4
+32,1.6558967374770883,Extended lockdown mobility at the partial lockdown,4
+33,1.6443398166692875,Extended lockdown mobility at the partial lockdown,4
+34,1.6327800268986568,Extended lockdown mobility at the partial lockdown,4
+35,1.6203506064162403,Extended lockdown mobility at the partial lockdown,4
+36,1.6068731716310327,Extended lockdown mobility at the partial lockdown,4
+37,1.5915753602917806,Extended lockdown mobility at the partial lockdown,4
+38,1.576276050129584,Extended lockdown mobility at the partial lockdown,4
+39,1.5609753827318504,Extended lockdown mobility at the partial lockdown,4
+40,1.54567350048158,Extended lockdown mobility at the partial lockdown,4
+41,1.5303705457803256,Extended lockdown mobility at the partial lockdown,4
+42,1.513848617745846,Extended lockdown mobility at the partial lockdown,4
+43,1.4908051707452363,Extended lockdown mobility at the partial lockdown,4
+44,1.465692295088194,Extended lockdown mobility at the partial lockdown,4
+45,1.4405839952601598,Extended lockdown mobility at the partial lockdown,4
+46,1.4154806614149136,Extended lockdown mobility at the partial lockdown,4
+47,1.390382669447346,Extended lockdown mobility at the partial lockdown,4
+48,1.3652903789607929,Extended lockdown mobility at the partial lockdown,4
+49,1.3383252537374517,Extended lockdown mobility at the partial lockdown,4
+50,1.2899861239187385,Extended lockdown mobility at the partial lockdown,4
+51,1.239621351964987,Extended lockdown mobility at the partial lockdown,4
+52,1.1892749852446185,Extended lockdown mobility at the partial lockdown,4
+53,1.1389470207362111,Extended lockdown mobility at the partial lockdown,4
+54,1.0886373065132235,Extended lockdown mobility at the partial lockdown,4
+55,1.038345546586183,Extended lockdown mobility at the partial lockdown,4
+56,0.986731227954707,Extended lockdown mobility at the partial lockdown,4
+57,0.9740793864114392,Extended lockdown mobility at the partial lockdown,4
+58,0.9596881864321384,Extended lockdown mobility at the partial lockdown,4
+59,0.9453017600041124,Extended lockdown mobility at the partial lockdown,4
+60,0.9309200907038152,Extended lockdown mobility at the partial lockdown,4
+61,0.9165431527662646,Extended lockdown mobility at the partial lockdown,4
+62,0.902170911415361,Extended lockdown mobility at the partial lockdown,4
+63,0.8863352673190035,Extended lockdown mobility at the partial lockdown,4
+64,0.8744940520168504,Extended lockdown mobility at the partial lockdown,4
+65,0.874408527232411,Extended lockdown mobility at the partial lockdown,4
+66,0.8743234647747812,Extended lockdown mobility at the partial lockdown,4
+67,0.8742388606064526,Extended lockdown mobility at the partial lockdown,4
+68,0.8741547107404185,Extended lockdown mobility at the partial lockdown,4
+69,0.8740710112393668,Extended lockdown mobility at the partial lockdown,4
+70,0.8739877582149335,Extended lockdown mobility at the partial lockdown,4
+71,0.8739049478269548,Extended lockdown mobility at the partial lockdown,4
+72,0.8738225762827577,Extended lockdown mobility at the partial lockdown,4
+73,0.8737406398364364,Extended lockdown mobility at the partial lockdown,4
+74,0.8736591347880988,Extended lockdown mobility at the partial lockdown,4
+75,0.8735780574832755,Extended lockdown mobility at the partial lockdown,4
+76,0.8734974043121897,Extended lockdown mobility at the partial lockdown,4
+77,0.8734171717090672,Extended lockdown mobility at the partial lockdown,4
+78,0.8733373561515217,Extended lockdown mobility at the partial lockdown,4
+79,0.8732579541599235,Extended lockdown mobility at the partial lockdown,4
+80,0.8731789622967195,Extended lockdown mobility at the partial lockdown,4
+81,0.8731003771658785,Extended lockdown mobility at the partial lockdown,4
+82,0.8730221954121952,Extended lockdown mobility at the partial lockdown,4
+83,0.8729444137207728,Extended lockdown mobility at the partial lockdown,4
+84,0.8728670288164132,Extended lockdown mobility at the partial lockdown,4
+85,0.8727900374629901,Extended lockdown mobility at the partial lockdown,4
+86,0.8727134364629562,Extended lockdown mobility at the partial lockdown,4
+87,0.8726372226567558,Extended lockdown mobility at the partial lockdown,4
+88,0.8725613929222391,Extended lockdown mobility at the partial lockdown,4
+89,0.8724859441741939,Extended lockdown mobility at the partial lockdown,4
+90,0.87241087336371,Extended lockdown mobility at the partial lockdown,4
+91,0.8723361774777919,Extended lockdown mobility at the partial lockdown,4
+92,0.8722618535386922,Extended lockdown mobility at the partial lockdown,4
+93,0.872187898603622,Extended lockdown mobility at the partial lockdown,4
+94,0.8721143097639766,Extended lockdown mobility at the partial lockdown,4
+95,0.8720410841451075,Extended lockdown mobility at the partial lockdown,4
+96,0.8719682189056582,Extended lockdown mobility at the partial lockdown,4
+97,0.871895711237214,Extended lockdown mobility at the partial lockdown,4
+98,0.8718235583637576,Extended lockdown mobility at the partial lockdown,4
+99,0.8717517575412994,Extended lockdown mobility at the partial lockdown,4
+100,0.8716803060573145,Extended lockdown mobility at the partial lockdown,4
+101,0.8716092012303994,Extended lockdown mobility at the partial lockdown,4
+102,0.8715384404097681,Extended lockdown mobility at the partial lockdown,4
+103,0.871468020974922,Extended lockdown mobility at the partial lockdown,4
+104,0.8713979403351186,Extended lockdown mobility at the partial lockdown,4
+105,0.8713281959289889,Extended lockdown mobility at the partial lockdown,4
+106,0.8712587852242014,Extended lockdown mobility at the partial lockdown,4
+107,0.8711897057170045,Extended lockdown mobility at the partial lockdown,4
+108,0.8711209549318157,Extended lockdown mobility at the partial lockdown,4
+109,0.8710525304208242,Extended lockdown mobility at the partial lockdown,4
+110,0.870984429763741,Extended lockdown mobility at the partial lockdown,4
+111,0.8709166505672605,Extended lockdown mobility at the partial lockdown,4
+112,0.8708491904647342,Extended lockdown mobility at the partial lockdown,4
+113,0.8707820471159188,Extended lockdown mobility at the partial lockdown,4
+114,0.8707152182064466,Extended lockdown mobility at the partial lockdown,4
+115,0.8706487014475984,Extended lockdown mobility at the partial lockdown,4
+116,0.8705824945759346,Extended lockdown mobility at the partial lockdown,4
+117,0.8705165953529099,Extended lockdown mobility at the partial lockdown,4
+118,0.8704510015645616,Extended lockdown mobility at the partial lockdown,4
+119,0.8703857110212139,Extended lockdown mobility at the partial lockdown,4
+120,0.8703207215571133,Extended lockdown mobility at the partial lockdown,4
+121,0.8702560310300962,Extended lockdown mobility at the partial lockdown,4
+122,0.8701916373213577,Extended lockdown mobility at the partial lockdown,4
+123,0.8701275383349527,Extended lockdown mobility at the partial lockdown,4
+124,0.8700637319978064,Extended lockdown mobility at the partial lockdown,4
+125,0.8700002162590389,Extended lockdown mobility at the partial lockdown,4
+126,0.8699369890899988,Extended lockdown mobility at the partial lockdown,4
+127,0.869874048483737,Extended lockdown mobility at the partial lockdown,4
+128,0.8698113924548668,Extended lockdown mobility at the partial lockdown,4
+129,0.8697490190392094,Extended lockdown mobility at the partial lockdown,4
+130,0.8696869262935223,Extended lockdown mobility at the partial lockdown,4
+131,0.8696251122952393,Extended lockdown mobility at the partial lockdown,4
+132,0.8695635751421849,Extended lockdown mobility at the partial lockdown,4
+133,0.8695023129523763,Extended lockdown mobility at the partial lockdown,4
+134,0.8694413238636388,Extended lockdown mobility at the partial lockdown,4
+135,0.8693806060334215,Extended lockdown mobility at the partial lockdown,4
+136,0.8693201576385697,Extended lockdown mobility at the partial lockdown,4
+137,0.8692599768750051,Extended lockdown mobility at the partial lockdown,4
+138,0.8692000619575627,Extended lockdown mobility at the partial lockdown,4
+139,0.8691404111196216,Extended lockdown mobility at the partial lockdown,4
+140,0.8690810226130105,Extended lockdown mobility at the partial lockdown,4
+141,0.869021894707684,Extended lockdown mobility at the partial lockdown,4
+142,0.8689630256915054,Extended lockdown mobility at the partial lockdown,4
+143,0.8689044138700193,Extended lockdown mobility at the partial lockdown,4
+144,0.8688460575662144,Extended lockdown mobility at the partial lockdown,4
+145,0.8687879551203606,Extended lockdown mobility at the partial lockdown,4
+146,0.8687301048896974,Extended lockdown mobility at the partial lockdown,4
+147,0.8686725052483047,Extended lockdown mobility at the partial lockdown,4
+148,0.8686151545868154,Extended lockdown mobility at the partial lockdown,4
+149,0.86855805131223085,Extended lockdown mobility at the partial lockdown,4
+150,0.8685011938477909,Extended lockdown mobility at the partial lockdown,4
+151,0.8684445806326289,Extended lockdown mobility at the partial lockdown,4
+152,0.8683882101216861,Extended lockdown mobility at the partial lockdown,4
+153,0.8683320807854407,Extended lockdown mobility at the partial lockdown,4
+154,0.8682761911097747,Extended lockdown mobility at the partial lockdown,4
+155,0.8682205395957322,Extended lockdown mobility at the partial lockdown,4
+156,0.8681651247593358,Extended lockdown mobility at the partial lockdown,4
+157,0.8681099451314551,Extended lockdown mobility at the partial lockdown,4
+158,0.8680549992575182,Extended lockdown mobility at the partial lockdown,4
+159,0.8680002856974514,Extended lockdown mobility at the partial lockdown,4
+160,0.8679458030253674,Extended lockdown mobility at the partial lockdown,4
+161,0.8678915498295459,Extended lockdown mobility at the partial lockdown,4
+162,0.8678375247121141,Extended lockdown mobility at the partial lockdown,4
+163,0.8677837262889116,Extended lockdown mobility at the partial lockdown,4
+164,0.8677301531893978,Extended lockdown mobility at the partial lockdown,4
+165,0.8676768040564043,Extended lockdown mobility at the partial lockdown,4
+166,0.8676236775460288,Extended lockdown mobility at the partial lockdown,4
+167,0.867570772327374,Extended lockdown mobility at the partial lockdown,4
+168,0.8675180870825321,Extended lockdown mobility at the partial lockdown,4
+169,0.8674656205062334,Extended lockdown mobility at the partial lockdown,4
+170,0.8674133713059163,Extended lockdown mobility at the partial lockdown,4
+171,0.8673613382014559,Extended lockdown mobility at the partial lockdown,4
+172,0.8673095199249284,Extended lockdown mobility at the partial lockdown,4
+173,0.8672579152206029,Extended lockdown mobility at the partial lockdown,4
+174,0.8672065228447483,Extended lockdown mobility at the partial lockdown,4
+175,0.8671553415655096,Extended lockdown mobility at the partial lockdown,4
+176,0.8671043701626584,Extended lockdown mobility at the partial lockdown,4
+177,0.867053607427558,Extended lockdown mobility at the partial lockdown,4
+178,0.867003052163065,Extended lockdown mobility at the partial lockdown,4
+179,0.8669527031831895,Extended lockdown mobility at the partial lockdown,4
+180,0.8669025593131988,Extended lockdown mobility at the partial lockdown,4
+181,0.8668526193893452,Extended lockdown mobility at the partial lockdown,4
+182,0.8668028822587205,Extended lockdown mobility at the partial lockdown,4
+183,0.8667533467792241,Extended lockdown mobility at the partial lockdown,4
+184,0.8667040118193398,Extended lockdown mobility at the partial lockdown,4
+185,0.8666548762580834,Extended lockdown mobility at the partial lockdown,4
+186,0.8666059389847729,Extended lockdown mobility at the partial lockdown,4
+187,0.8665571988990476,Extended lockdown mobility at the partial lockdown,4
+188,0.866508654910634,Extended lockdown mobility at the partial lockdown,4
+189,0.866460305939225,Extended lockdown mobility at the partial lockdown,4
+190,0.8664121509144859,Extended lockdown mobility at the partial lockdown,4
+191,0.8663641887757557,Extended lockdown mobility at the partial lockdown,4
+192,0.8663164184720958,Extended lockdown mobility at the partial lockdown,4
+193,0.8662688389620363,Extended lockdown mobility at the partial lockdown,4
+194,0.8662214492135841,Extended lockdown mobility at the partial lockdown,4
+195,0.8661742482040469,Extended lockdown mobility at the partial lockdown,4
+196,0.866127234919884,Extended lockdown mobility at the partial lockdown,4
+197,0.8660804083567263,Extended lockdown mobility at the partial lockdown,4
+198,0.8660337675191199,Extended lockdown mobility at the partial lockdown,4
+199,0.8659873114205148,Extended lockdown mobility at the partial lockdown,4
+200,0.8659410390831561,Extended lockdown mobility at the partial lockdown,4
+201,0.8658949495379623,Extended lockdown mobility at the partial lockdown,4
+202,0.8658490418243613,Extended lockdown mobility at the partial lockdown,4
+203,0.865803314990292,Extended lockdown mobility at the partial lockdown,4
+204,0.8657577680921043,Extended lockdown mobility at the partial lockdown,4
+205,0.8657124001943369,Extended lockdown mobility at the partial lockdown,4
+206,0.8656672103697769,Extended lockdown mobility at the partial lockdown,4
+207,0.8656221976992405,Extended lockdown mobility at the partial lockdown,4
+208,0.8655773612715731,Extended lockdown mobility at the partial lockdown,4
+209,0.8655327001834522,Extended lockdown mobility at the partial lockdown,4
+210,0.8654882135394246,Extended lockdown mobility at the partial lockdown,4
+211,0.8654439004516924,Extended lockdown mobility at the partial lockdown,4
+212,0.8653997600401372,Extended lockdown mobility at the partial lockdown,4
+213,0.8653557914320985,Extended lockdown mobility at the partial lockdown,4
+214,0.8653119937624167,Extended lockdown mobility at the partial lockdown,4
+215,0.8652683661732422,Extended lockdown mobility at the partial lockdown,4
+216,0.8652249078141081,Extended lockdown mobility at the partial lockdown,4
+217,0.865181617841584,Extended lockdown mobility at the partial lockdown,4
+218,0.8651384954194649,Extended lockdown mobility at the partial lockdown,4
+219,0.8650955397185149,Extended lockdown mobility at the partial lockdown,4
+220,0.8650527499164117,Extended lockdown mobility at the partial lockdown,4
+221,0.8650101251978313,Extended lockdown mobility at the partial lockdown,4
+222,0.8649676647540633,Extended lockdown mobility at the partial lockdown,4
+223,0.8649253677832127,Extended lockdown mobility at the partial lockdown,4
+224,0.8648832334899806,Extended lockdown mobility at the partial lockdown,4
+225,0.8648412610856249,Extended lockdown mobility at the partial lockdown,4
+226,0.8647994497878931,Extended lockdown mobility at the partial lockdown,4
+227,0.8647577988209014,Extended lockdown mobility at the partial lockdown,4
+228,0.8647163074151404,Extended lockdown mobility at the partial lockdown,4
+229,0.8646749748073598,Extended lockdown mobility at the partial lockdown,4
+230,0.864633800240482,Extended lockdown mobility at the partial lockdown,4
+231,0.8645927829634885,Extended lockdown mobility at the partial lockdown,4
+232,0.8645519222315,Extended lockdown mobility at the partial lockdown,4
+233,0.8645112173056019,Extended lockdown mobility at the partial lockdown,4
+234,0.8644706674527247,Extended lockdown mobility at the partial lockdown,4
+235,0.8644302719457192,Extended lockdown mobility at the partial lockdown,4
+236,0.8643900300631757,Extended lockdown mobility at the partial lockdown,4
+237,0.8643499410893758,Extended lockdown mobility at the partial lockdown,4
+238,0.8643100043142848,Extended lockdown mobility at the partial lockdown,4
+239,0.8642702190334389,Extended lockdown mobility at the partial lockdown,4
+240,0.8642305845478899,Extended lockdown mobility at the partial lockdown,4
+241,0.8641911001641505,Extended lockdown mobility at the partial lockdown,4
+242,0.8641517651941336,Extended lockdown mobility at the partial lockdown,4
+243,0.8641125789550537,Extended lockdown mobility at the partial lockdown,4
+244,0.864073540769474,Extended lockdown mobility at the partial lockdown,4
+245,0.8640346499650624,Extended lockdown mobility at the partial lockdown,4
+246,0.8639959058747557,Extended lockdown mobility at the partial lockdown,4
+247,0.863957307836531,Extended lockdown mobility at the partial lockdown,4
+248,0.8639188551934353,Extended lockdown mobility at the partial lockdown,4
+249,0.8638805472934256,Extended lockdown mobility at the partial lockdown,4
+250,0.863842383489484,Extended lockdown mobility at the partial lockdown,4
+251,0.8638043631394187,Extended lockdown mobility at the partial lockdown,4
+252,0.863766485605857,Extended lockdown mobility at the partial lockdown,4
+253,0.8637287502562184,Extended lockdown mobility at the partial lockdown,4
+254,0.8636911564625523,Extended lockdown mobility at the partial lockdown,4
+255,0.8636537036017202,Extended lockdown mobility at the partial lockdown,4
+256,0.8636163910550231,Extended lockdown mobility at the partial lockdown,4
+257,0.8635792182084124,Extended lockdown mobility at the partial lockdown,4
+258,0.8635421844523605,Extended lockdown mobility at the partial lockdown,4
+259,0.863505289181728,Extended lockdown mobility at the partial lockdown,4
+260,0.8634685317958243,Extended lockdown mobility at the partial lockdown,4
+261,0.8634319116982951,Extended lockdown mobility at the partial lockdown,4
+262,0.8633954282971236,Extended lockdown mobility at the partial lockdown,4
+263,0.8633590810045096,Extended lockdown mobility at the partial lockdown,4
+264,0.8633228692369014,Extended lockdown mobility at the partial lockdown,4
+265,0.8632867924149182,Extended lockdown mobility at the partial lockdown,4
+266,0.8632508499632797,Extended lockdown mobility at the partial lockdown,4
+267,0.8632150413107832,Extended lockdown mobility at the partial lockdown,4
+268,0.8631793658902545,Extended lockdown mobility at the partial lockdown,4
+269,0.8631438231385358,Extended lockdown mobility at the partial lockdown,4
+270,0.8631084124963262,Extended lockdown mobility at the partial lockdown,4
+271,0.8630731334083566,Extended lockdown mobility at the partial lockdown,4
+272,0.8630379853231038,Extended lockdown mobility at the partial lockdown,4
+273,0.8630029676929087,Extended lockdown mobility at the partial lockdown,4
+274,0.8629680799738715,Extended lockdown mobility at the partial lockdown,4
+275,0.8629333216258198,Extended lockdown mobility at the partial lockdown,4
+276,0.8628986921122586,Extended lockdown mobility at the partial lockdown,4
+277,0.8628641909003854,Extended lockdown mobility at the partial lockdown,4
+278,0.862829817460955,Extended lockdown mobility at the partial lockdown,4
+279,0.8627955712683243,Extended lockdown mobility at the partial lockdown,4
+280,0.8627614518003771,Extended lockdown mobility at the partial lockdown,4
+281,0.8627274585384822,Extended lockdown mobility at the partial lockdown,4
+282,0.8626935909674787,Extended lockdown mobility at the partial lockdown,4
+283,0.8626598485756101,Extended lockdown mobility at the partial lockdown,4
+284,0.8626262308544903,Extended lockdown mobility at the partial lockdown,4
+285,0.8625927372990999,Extended lockdown mobility at the partial lockdown,4
+286,0.8625593674077071,Extended lockdown mobility at the partial lockdown,4
+287,0.862526120681887,Extended lockdown mobility at the partial lockdown,4
+288,0.8624929966263758,Extended lockdown mobility at the partial lockdown,4
+289,0.8624599947491761,Extended lockdown mobility at the partial lockdown,4
+290,0.8624271145614967,Extended lockdown mobility at the partial lockdown,4
+291,0.8623943555775522,Extended lockdown mobility at the partial lockdown,4
+292,0.8623617173147656,Extended lockdown mobility at the partial lockdown,4
+293,0.8623291992935681,Extended lockdown mobility at the partial lockdown,4
+294,0.8622968010374904,Extended lockdown mobility at the partial lockdown,4
+295,0.8622645220729541,Extended lockdown mobility at the partial lockdown,4
+296,0.8622323619294566,Extended lockdown mobility at the partial lockdown,4
+297,0.8622003201393524,Extended lockdown mobility at the partial lockdown,4
+298,0.8621683962380003,Extended lockdown mobility at the partial lockdown,4
+299,0.8621365897635297,Extended lockdown mobility at the partial lockdown,4
+300,0.862104900256964,Extended lockdown mobility at the partial lockdown,4
+301,0.8620733272621225,Extended lockdown mobility at the partial lockdown,4
+302,0.8620418703256292,Extended lockdown mobility at the partial lockdown,4
+303,0.8620105289968789,Extended lockdown mobility at the partial lockdown,4
+304,0.8619793028279271,Extended lockdown mobility at the partial lockdown,4
+305,0.8619481913735834,Extended lockdown mobility at the partial lockdown,4
+306,0.8619171941912852,Extended lockdown mobility at the partial lockdown,4
+307,0.861886310841165,Extended lockdown mobility at the partial lockdown,4
+308,0.8618555408859339,Extended lockdown mobility at the partial lockdown,4
+309,0.8618248838908554,Extended lockdown mobility at the partial lockdown,4
+310,0.861794339423832,Extended lockdown mobility at the partial lockdown,4
+311,0.8617639070552171,Extended lockdown mobility at the partial lockdown,4
+312,0.861733586357898,Extended lockdown mobility at the partial lockdown,4
+313,0.8617033769072794,Extended lockdown mobility at the partial lockdown,4
+314,0.8616732782811523,Extended lockdown mobility at the partial lockdown,4
+315,0.8616432900597887,Extended lockdown mobility at the partial lockdown,4
+316,0.8616134118258258,Extended lockdown mobility at the partial lockdown,4
+317,0.8615836431643189,Extended lockdown mobility at the partial lockdown,4
+318,0.861553983662641,Extended lockdown mobility at the partial lockdown,4
+319,0.8615244329104835,Extended lockdown mobility at the partial lockdown,4
+320,0.8614949904998926,Extended lockdown mobility at the partial lockdown,4
+321,0.8614656560251447,Extended lockdown mobility at the partial lockdown,4
+322,0.8614364290828341,Extended lockdown mobility at the partial lockdown,4
+323,0.8614073092717008,Extended lockdown mobility at the partial lockdown,4
+324,0.8613782961927732,Extended lockdown mobility at the partial lockdown,4
+325,0.8613493894492695,Extended lockdown mobility at the partial lockdown,4
+326,0.8613205886464833,Extended lockdown mobility at the partial lockdown,4
+327,0.8612918933919557,Extended lockdown mobility at the partial lockdown,4
+328,0.8612633032953456,Extended lockdown mobility at the partial lockdown,4
+329,0.8612348179683336,Extended lockdown mobility at the partial lockdown,4
+330,0.8612064370247433,Extended lockdown mobility at the partial lockdown,4
+331,0.861178160080405,Extended lockdown mobility at the partial lockdown,4
+332,0.8611499867532971,Extended lockdown mobility at the partial lockdown,4
+333,0.8611219166633044,Extended lockdown mobility at the partial lockdown,4
+334,0.8610939494323453,Extended lockdown mobility at the partial lockdown,4
+335,0.8610660846843533,Extended lockdown mobility at the partial lockdown,4
+336,0.861038322045134,Extended lockdown mobility at the partial lockdown,4
+337,0.8610106611425326,Extended lockdown mobility at the partial lockdown,4
+338,0.8609831016062494,Extended lockdown mobility at the partial lockdown,4
+339,0.8609556430679324,Extended lockdown mobility at the partial lockdown,4
+340,0.8609282851610236,Extended lockdown mobility at the partial lockdown,4
+341,0.8609010275209481,Extended lockdown mobility at the partial lockdown,4
+342,0.8608738697848806,Extended lockdown mobility at the partial lockdown,4
+343,0.8608468115918766,Extended lockdown mobility at the partial lockdown,4
+344,0.8608198525827918,Extended lockdown mobility at the partial lockdown,4
+345,0.8607929924002343,Extended lockdown mobility at the partial lockdown,4
+346,0.8607662306886558,Extended lockdown mobility at the partial lockdown,4
+347,0.8607395670941972,Extended lockdown mobility at the partial lockdown,4
+348,0.8607130012647654,Extended lockdown mobility at the partial lockdown,4
+349,0.86068653285003,Extended lockdown mobility at the partial lockdown,4
+350,0.8606601615013044,Extended lockdown mobility at the partial lockdown,4
+351,0.8606338868716359,Extended lockdown mobility at the partial lockdown,4
+352,0.8606077086157117,Extended lockdown mobility at the partial lockdown,4
+353,0.860581626389925,Extended lockdown mobility at the partial lockdown,4
+354,0.860555639852261,Extended lockdown mobility at the partial lockdown,4
+355,0.860529748662373,Extended lockdown mobility at the partial lockdown,4
+356,0.8605039524814948,Extended lockdown mobility at the partial lockdown,4
+357,0.8604782509724955,Extended lockdown mobility at the partial lockdown,4
+358,0.860452643799723,Extended lockdown mobility at the partial lockdown,4
+359,0.8604271306292556,Extended lockdown mobility at the partial lockdown,4
+360,0.8604017111286113,Extended lockdown mobility at the partial lockdown,4
+361,0.8603763849668625,Extended lockdown mobility at the partial lockdown,4
+362,0.860351151814629,Extended lockdown mobility at the partial lockdown,4
+363,0.8603260113439997,Extended lockdown mobility at the partial lockdown,4
+364,0.86030096322863,Extended lockdown mobility at the partial lockdown,4
+365,0.8602760071435807,Extended lockdown mobility at the partial lockdown,4
+366,0.8602511427654201,Extended lockdown mobility at the partial lockdown,4
+367,0.8602263697721809,Extended lockdown mobility at the partial lockdown,4
+368,0.8602016878432743,Extended lockdown mobility at the partial lockdown,4
+369,0.8601770966596719,Extended lockdown mobility at the partial lockdown,4
+370,0.8601525959036084,Extended lockdown mobility at the partial lockdown,4
+371,0.8601281852588006,Extended lockdown mobility at the partial lockdown,4
+372,0.8601038644103629,Extended lockdown mobility at the partial lockdown,4
+373,0.8600796330447781,Extended lockdown mobility at the partial lockdown,4
+374,0.8600554908498717,Extended lockdown mobility at the partial lockdown,4
+375,0.8600314375148557,Extended lockdown mobility at the partial lockdown,4
+376,0.86000747273024,Extended lockdown mobility at the partial lockdown,4
+377,0.8599835961879495,Extended lockdown mobility at the partial lockdown,4
+378,0.8599598075811137,Extended lockdown mobility at the partial lockdown,4
+379,0.8599361066042488,Extended lockdown mobility at the partial lockdown,4
+380,0.8599124929531801,Extended lockdown mobility at the partial lockdown,4
+381,0.8598889663249409,Extended lockdown mobility at the partial lockdown,4
+382,0.8598655264178686,Extended lockdown mobility at the partial lockdown,4
+383,0.8598421729316323,Extended lockdown mobility at the partial lockdown,4
+384,0.8598189055670583,Extended lockdown mobility at the partial lockdown,4
+385,0.8597957240262477,Extended lockdown mobility at the partial lockdown,4
+386,0.8597726280125777,Extended lockdown mobility at the partial lockdown,4
+387,0.8597496172305475,Extended lockdown mobility at the partial lockdown,4
+388,0.8597266913859994,Extended lockdown mobility at the partial lockdown,4
+389,0.859703850185861,Extended lockdown mobility at the partial lockdown,4
+390,0.8596810933382656,Extended lockdown mobility at the partial lockdown,4
+391,0.8596584205526013,Extended lockdown mobility at the partial lockdown,4
