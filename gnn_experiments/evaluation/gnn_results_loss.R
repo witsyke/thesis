@@ -1,3 +1,4 @@
+# EXPLORATION FILE TO INSPECT TRAINING AND VALIDATION LOSS FOR GNN EXPERIMENTS
 tl <- read_csv("<<PATH TO TRAINING LOSS FILE>>", col_names = F) %>%
   rename(tl = X1)
 vl <- read_csv("<<PATH TO TRAINING VALIDATION LOSS FILE>>", col_names = F) %>%

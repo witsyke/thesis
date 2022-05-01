@@ -1,3 +1,5 @@
+# USES THE CONCATENATED GNN RESULTS TO CALCULATE THE TEST ERROR AND PERFORM THE TREND ANALYSIS
+# The concatenated error files are to large to be included in the repository.
 library(tidyverse)
 library(ggplot2)
 library(broom)
@@ -9,7 +11,7 @@ setwd("<<PATH TO THIS DIRECTORY>>")
 county_data <- read_csv("../../data/population_data.csv") %>%
   dplyr::select(county = lk_movement, population)
 
-setwd("<<PATH TO AGGREGATED GNN RESULTS>>")
+setwd("<<PATH TO CONCATENATED GNN RESULTS>>")
 file_names <- list.files(pattern = "*.csv")
 
 

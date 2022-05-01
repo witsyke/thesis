@@ -1,3 +1,6 @@
+# SCRIPT TO SEQUENTIALLY CONACTENATE RESULT FILES FOR A GNN EXPERIMENT
+# the id has to be set to the folder name of the GNN experiment run
+# this has to be done seperately for each GNN experiment
 library(tidyverse)
 setwd("<<PATH TO THIS DIRECTORY>>")
 
@@ -18,11 +21,6 @@ county_data <- read_csv("../../data/population_data.csv") %>%
   select(county = lk_movement, population)
 
 file_names <- list.files(pattern = "*.csv")
-
-# o = output.cpu().detach().numpy()
-# l = y_test[0].cpu().numpy()
-# --> o is prediction, l is real value
-
 
 
 get_day_data_shift_per_100k <- function(file_name){

@@ -72,7 +72,7 @@ if __name__ == '__main__':
     parser.add_argument('--dataset', type=str, default='normal',choices=["normal", "binary", "distance", "only_local", "full", "scaled_amount", "scaled_structure"])
     parser.add_argument('--model', type=str, default='mpnn_lstm',choices=["mpnn", "mpnn_add", "mpnn_lstm", "mpnn_lstm2", "feed_forward", "mpnn_lstm_no_skip"])
     parser.add_argument('--lockdown', type=str, default=None , choices=[None, "boolean", "kappa"])
-    parser.add_argument('--cases', type=str, default="active_cases" , choices=["new_cases", "active_cases", "new_cases_norm"])
+    parser.add_argument('--cases', type=str, default="new_cases_norm" , choices=["new_cases", "active_cases", "new_cases_norm"])
     
     
     args = parser.parse_args()

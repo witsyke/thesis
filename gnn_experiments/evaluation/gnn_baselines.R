@@ -1,3 +1,4 @@
+# SCRIPT TO CALCULATE THE "PREDICTIONS" FOR THE NAIVE BASELINES USED FOR THE GNN EVALUATION
 setwd("<<PATH TO SIR EXPERIMENTS>>")
 # File with cases is reused
 national_cases <- read_csv("data/est_norm_national_data.csv")
