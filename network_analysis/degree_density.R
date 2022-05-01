@@ -1,3 +1,5 @@
+# CALCULATES AND VISUALIZES THE DEGREE, STRENGTH AND DENSITY of THE PRE-LOCKDOWN, PARTIAL LOCKDOWN, AND EXTENDED LOCKDOWN WEEK
+# # Requires mobility data that is not publicly available.
 library(tidyverse)
 library(igraph)
 library(ggplot2)

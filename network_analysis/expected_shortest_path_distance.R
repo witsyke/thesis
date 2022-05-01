@@ -1,3 +1,5 @@
+# CALCULATES THE EXPECTED SHORTEST PATH FOR ALL DISTANCES IN GERMANY FOR THE PRE-LOCKDOWN, PARTIAL LOCKDOWN, AND LOCKDOWN WEEK AND SCALED R.version.string
+# Requires mobility data that is not publicly available.
 library(tidyverse)
 library(ggplot2)
 

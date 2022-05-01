@@ -1,3 +1,5 @@
+# SCRIPT TO RUN SIR SIMULATIONS GIVEN A SCENARIO AND A SET OF PARAMETERS
+# Requires mobility data that is not publicly available.
 #-------------------------------- FUNCTIONS --------------------------------
 # Function to extract the county values for a specific point in time
 get_county_values <- function(filter_time, ode_result, P){
@@ -31,8 +33,9 @@ end_date <- "2021-01-04"
 
 
 # THIS IS WHERE THE EXPERIMENT IS SET
-experiment <- "only_partial"
+experiment <- "observed"
 
+mobility_reduction <- TRUE
 structural_update <- TRUE 
 pre_lockdown <- "2020-38"
 upper_limit <- 53
@@ -48,6 +51,10 @@ if(experiment == "only_partial"){
 if(experiment == "extended_from_beginning"){
   structural_update <- FALSE
   pre_lockdown <- "2020-53"
+}
+if(experiment == "no_mobility"){
+  structural_update <- FALSE
+  mobility_reduction <- FALSE
 }
 
 
@@ -159,11 +166,6 @@ N_i <- rep(1, num_counties)
 names(N_i) <- paste("n", rownames(P), sep = "_")
 N_i[national_pop$n_county] <- national_pop$population
 
-# N_i <- c(100, 300, 500)
-# P <- matrix(c(2, 4, 4, 0, 3, 6, 4, 5, 6), byrow = T, nrow = 3)
-# S <- matrix(c(10, 15, 20, 30, 40, 50, 10, 30, 100), byrow = T, nrow = 3)
-# S <- S/N_ij
-# P = P / rowSums(P)
 
 N_ij <- N_i * P
 N_j <- colSums(N_ij)
@@ -242,7 +244,6 @@ result_long_test2 <- melt(result_test2, id = "time")
 
 
 
-# TODO this is not very efficient and takes quite some time, but its better than nothing and should only matter for very long fittings
 results_long_county_test <- Reduce(rbind, lapply(times_test, get_county_values, ode_result = result_long_test2, P = P))
 
 
@@ -250,7 +251,7 @@ results_long_county_test <- Reduce(rbind, lapply(times_test, get_county_values, 
 
 # running experiment with fitted parameters
 # PARAMETRIZATION HAS TO BE SET MANUALLY HERE
-result <- run_experiment(list(beta = beta_min, gamma = gamma_max),
+result <- run_experiment(list(beta = beta_fit, gamma = gamma_fit),
                          initial_state_values = initial_state_values, 
                          pre_lockdown = pre_lockdown, 
                          movement_data = movement_data, 
@@ -258,7 +259,7 @@ result <- run_experiment(list(beta = beta_min, gamma = gamma_max),
                          weeks = movements_filtered, 
                          upper_limit = upper_limit,
                          experiment = experiment,
-                         movement_reduction = T, 
+                         movement_reduction = mobility_reduction, 
                          structural_update = structural_update, 
                          trace = F)
 # ~ 3min of runtime
@@ -276,10 +277,10 @@ result_combined <- result$result %>%
 results_long_county_test_structure <- Reduce(rbind, lapply(unique(result_combined$time), get_county_values, ode_result = result_combined, P = result$P))
 
 # SAVE RESULTS TO CSV - careful - currently the set of parameters for parametrization has to be changed manually
-write_csv(results_long_county_test_structure, file = paste("results_epidemic_curve/experiment", experiment, "bmin_gmax_long.csv", sep = "_"))
+write_csv(results_long_county_test_structure, file = paste("results_epidemic_curve/experiment", experiment, "fit_long.csv", sep = "_"))
 
 # Save complete output for all subcompartment (very large ~8GB)
-# write_csv(result_combined, file = paste("<<PATH TO LARGE FILE STORAGE>>", experiment, "bmin_gmax_long_all.csv", sep = "_"))
+# write_csv(result_combined, file = paste("<<PATH TO LARGE FILE STORAGE>>", experiment, "fit_long_all.csv", sep = "_"))
 
 #----------------- PLOTTING THE RESULT -------------------
 ggplot(results_long_county_test_structure, aes(x = time, y = value, color = county, group = county)) +

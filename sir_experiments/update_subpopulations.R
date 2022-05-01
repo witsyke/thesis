@@ -1,3 +1,4 @@
+# HELPER FUNCTION FOR THE SIMPLE STRUCTURAL UPDATE SCHEME
 update_sub_populations <- function(current_state, N_t, N_t1, trace = FALSE){
   if(trace){
     print("Updating sub-populations...")

@@ -1,4 +1,5 @@
-# TODO similar to what a do for movement change map
+# CALCULATES THE MOVEMENT REDUCTION KAPPA FOR EACH COUNTY. 
+# Requires mobility data that is not publicly available.
 # Divide the total in+out movement for each week and county by the total in+out of that county in week 38
 library(tidyverse)
 setwd("<<PATH TO THIS DIRECTORY>>")

@@ -96,44 +96,13 @@ movement_data <- read_csv("complete_movement.csv.gz") %>%
   ungroup()
 
 
-# TODO very unsure about the normalization of the edges - if i divide by total travel out of a county wouldn't i loose the information
-# that more people move from one county to another even if they are them same in terms of relative movement 
-# Better to use flux fraction? travels/ total travels
-# TODO would it make sense to scale the data again by county population? -> this would mean I don't lose 
-# scaling information (one county is bigger and more people move -> 0.1 from A->B != 0.1 from B->C)
-# TODO test it out
-# TODO i dont have the devices for foreign countries --> no normalization possible there
-# what happens if i dont normalize --> test it out
-# current normalization does not make sense as balance between counties is destroyed
-# ASK in bernhard meeting
-# might be able to avoid this by only using counties for now
+
 edge_list_week <- movement_data %>%
   filter(complete.cases(.)) %>%
   select(week, kreis1, kreis2, travellers) %>%
   mutate(travellers = round(travellers / 7, digits = 2),
-         travellers_binary = if_else(travellers > 0, 1, 0)) # %>% # to get daily value
-  # filter(travellers > 5) %>% # Filter all movements wehere average daily movement is smaller than 5
-  # mutate(travellers_binary = if_else(travellers > 5, 1, 0)) # Should not lead to any 0s
+         travellers_binary = if_else(travellers > 0, 1, 0)) 
 
-  
-  # mutate(kreis1 = if_else(!is.na(kreis1), paste("a", kreis1, sep = "_"), kreis1),
-  #        kreis2 = if_else(!is.na(kreis2), paste("a", kreis2, sep = "_"), kreis2),
-  #        staat1 = if_else(is.na(kreis1), paste("b", staat1, sep = "_"), staat1),
-  #        staat2 = if_else(is.na(kreis2), paste("b", staat2, sep = "_"), staat2)) %>%
-  # mutate(kreis1 = if_else(is.na(kreis1), staat1, kreis1),
-  #        kreis2 = if_else(is.na(kreis2), staat2, kreis2)) %>%
-  # select(week, start = kreis1, destination = kreis2, travellers) %>%
-  # filter(start != "b_Germany",
-  #        destination != "Germany") %>%
-  # filter(!start %in% no_case_data$country,
-  #        !destination %in% no_case_data$country) %>%
-  # group_by(week, start) %>%
-  # mutate(sum_outward = sum(travellers)) %>%
-  # ungroup() %>%
-  # mutate(weight = travellers / sum_outward) %>%
-  # left_join(node_idx, by = c("start" = "originalId")) %>%
-  # left_join(node_idx, by = c("destination" = "originalId")) %>%
-  # select(txId1 = contiguosId.x, txId2 = contiguosId.y, weight, week)
 
 
 date = seq(as.Date(start_date), as.Date(end_date), by="day")
@@ -196,6 +165,3 @@ for (i in 1:length(dates$rowname)){
                   sep = ""),
             col_names = FALSE) 
 } 
-
-
-

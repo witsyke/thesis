@@ -1,3 +1,6 @@
+# SCRIPT TO CALIBRATE THE SIR MODEL USING THE MOBILITY DATA AND THE ESTIMATED ACTIVE CASES
+# Requires mobility data that is not publicly available.
+
 #-------------------------------- FUNCTIONS --------------------------------
 # Function to extract the county values for a specific point in time
 get_county_values <- function(filter_time, ode_result, P){
@@ -35,8 +38,6 @@ days = as.double(as.Date(end_date) - as.Date(start_date))
 
 
 #-------------------------------- LOAD MOVEMENT DATA --------------------------------
-# This will take a little while and needs a bit of RAM if this doesn't work, let me know
-# then I can extract a smaller movement dataset, e.g., only 2020
 movement_data <- read_csv("data/complete_movement.csv.gz") %>%
   mutate(kreis1 = replace(kreis1, grepl("Berlin", kreis1, fixed = TRUE), "Berlin"),
          kreis2 = replace(kreis2, grepl("Berlin", kreis2, fixed = TRUE), "Berlin"),

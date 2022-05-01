@@ -1,3 +1,5 @@
+# CREATES A MAP OF THE MOBILITY GRAPH FOR THE PRE-LOCKDOWN, PARTIAL LOCKDOWN, AND LOCKDOWN WEEK
+# Requires mobility data that is not publicly available.
 library(tidyverse)
 library(ggplot2)
 

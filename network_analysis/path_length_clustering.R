@@ -1,3 +1,5 @@
+# VISUALIZES THE PATH LENGHT AND CLUSTERING COEFFICENT FOR THE PRE-LOCKDOWN, PARTIAL LOCKDOWN, AND EXTENDED LOCKDOWN WEEK
+# # Requires mobility data that is not publicly available.
 library(tidyverse)
 library(ggplot2)
 setwd("<<PATH TO THIS DIRECTORY>>")

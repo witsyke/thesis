@@ -65,6 +65,3 @@ for (i in 1:length(dates$rowname)){
                   sep = ""),
             col_names = FALSE) 
 } 
-
-
-

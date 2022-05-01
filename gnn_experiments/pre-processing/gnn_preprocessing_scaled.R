@@ -49,9 +49,8 @@ save(scaled_movements_total_travel, file = "PATH TO TOTAL TRAVEL SCALED DATA")
 
 
 #------------------------- EQUAL STRUCTURE ----------------------------------------
-# same as in paper 
-# week t0 * sum(week T)/sum(week t0) <- Question is how to inlclude this for the second lockdown <- should probably choose another week and do the total scaling by that week
-# after I've done the plots for the second wave <- this needs to happen before all the runs finish
+# same as in Schlosser et al. 
+# week t0 * sum(week T)/sum(week t0) 
 
 scaling_factors_structure <- total_weekly_movement %>%
   mutate(sum_travellers_week_t0 = (total_weekly_movement %>% filter(week == t0))$sum_travellers_day,

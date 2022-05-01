@@ -1,3 +1,5 @@
+# CREATES A MAP OF ALL GERMANY COUNTIES AND THEIR MOBILITY REDUCTION BETWEEN THE PRE-LOCKDOWN AND PARTIAL LOCKDOWN OR EXTENDED LOCKDOWN WEEK
+# Requires mobility data that is not publicly available.
 library(scales)
 library(raster)
 library(tidyverse)

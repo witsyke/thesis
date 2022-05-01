@@ -1,3 +1,4 @@
+# DEFINTION OF THE SYSTEM OF ODEs USED FOR THE SIR MODEL
 approxTime <- function(x, xout, ...) {
   if (is.data.frame(x)) {
     x <- as.matrix(x); wasdf <- TRUE

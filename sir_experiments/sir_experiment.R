@@ -1,3 +1,4 @@
+# HELPER TO RUN THE SIR SIMULATION CONTAINS THE SETUP TO RUN STRUCTURAL UPDATES
 run_experiment <- function(sir_params,
                            initial_state_values, 
                            pre_lockdown, 

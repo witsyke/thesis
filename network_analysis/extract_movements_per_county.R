@@ -1,5 +1,4 @@
-# TODO when I adapt this for the change of movement per week I need to divide by 7 to get daily difference
-# Should only matter if threshold is applied
+# HELPER FUNCTIONS TO EXTRACT THE IN AND OUTGOING MOVEMENTS OF EACH COUNTY
 
 extract_total_movement_per_county <- function(start_week, end_week, movement_data, movement = "all", include_local = FALSE){
   # movement can be "in", "out", "all"
