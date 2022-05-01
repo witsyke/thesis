@@ -16,7 +16,7 @@ The spatio-temporal GNN and the evaluation scheme were adapted and extended from
 > ([https://arxiv.org/abs/2009.08388](https://arxiv.org/abs/2009.08388))
 
 The code of this work was re-used and adapted and the original code is available at: https://github.com/geopanag/pandemic_tgnn.
-This code is located in [gnn_experiments/mt-gnn](https://github.com/witsyke/thesis/tree/main/gnn_experiments/mt-gnn).
+This code is located in [gnn_experiments/mt-gnn](https://github.com/witsyke/thesis/tree/main/gnn_experiments/mt-gnn). Specifically in the /code subdirectory.
 
 **License**
 
